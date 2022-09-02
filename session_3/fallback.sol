@@ -1,0 +1,19 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract ConFall {
+
+    event Log(string Func, address sender, uint value, bytes data);
+
+    fallback() external payable {
+        emit Log("fallback", msg.sender, msg.value, msg.data);
+    }
+    receive() external payable{
+        emit Log("receive", msg.sender, msg.value, "");
+    }   
+    
+    function BalanceCheck() public view returns(uint){
+        return address(this).balance;
+    }
+
+}
