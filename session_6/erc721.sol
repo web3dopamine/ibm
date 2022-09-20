@@ -47,3 +47,11 @@ contract MyNFT is ERC721, ERC721URIStorage, ERC2981, Ownable {
         return super.supportsInterface(interfaceId);
     }
 }
+
+
+
+
+
+// how to Oracle use to set price
+
+// setting contract approval hack

@@ -24,7 +24,7 @@ contract MyToken is ERC721, Ownable {
 
     constructor() ERC721("MyToken", "MTK") {}
 
-    
+
     function safeMint(address to, uint256 tokenId) public onlyOwner {
         _safeMint(to, tokenId);
     }
@@ -137,3 +137,7 @@ contract MyToken is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
 
 
 
+
+
+
+"indexed" keyword example
