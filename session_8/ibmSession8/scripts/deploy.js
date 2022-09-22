@@ -16,7 +16,7 @@ async function main() {
     "event GreeterEvent(string NewGreeting)",
     "function greet() view returns (string memory)",
     "function setGreeting(string memory _greeting)",
-];
+  ];
 
 
   const Greeter = await hre.ethers.getContractFactory("Greeter");

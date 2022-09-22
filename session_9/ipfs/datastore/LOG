@@ -1,0 +1,1855 @@
+=============== Sep 20, 2022 (+08) ===============
+18:05:46.340929 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:05:46.376351 db@open opening
+18:05:46.378899 version@stat F·[] S·0B[] Sc·[]
+18:05:46.434381 db@janitor F·2 G·0
+18:05:46.434431 db@open done T·58.046ms
+18:05:48.138220 db@close closing
+18:05:48.139875 db@close done T·1.648167ms
+=============== Sep 20, 2022 (+08) ===============
+18:05:48.143547 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:05:48.144799 version@stat F·[] S·0B[] Sc·[]
+18:05:48.144829 db@open opening
+18:05:48.145054 journal@recovery F·1
+18:05:48.146140 journal@recovery recovering @1
+18:05:48.175082 memdb@flush created L0@2 N·12 S·1KiB "/pi..N2M,v10":"/pr..crQ,v12"
+18:05:48.178236 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+18:05:48.245201 db@janitor F·3 G·0
+18:05:48.245278 db@open done T·100.43275ms
+18:05:48.393209 db@close closing
+18:05:48.393539 db@close done T·328.417µs
+=============== Sep 20, 2022 (+08) ===============
+18:06:02.459927 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:06:02.461383 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+18:06:02.461428 db@open opening
+18:06:02.461614 journal@recovery F·1
+18:06:02.461841 journal@recovery recovering @3
+18:06:02.482370 memdb@flush created L0@5 N·6 S·1KiB "/F5..53Q,v19":"/pi..rty,v14"
+18:06:02.482692 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:02.543272 db@janitor F·4 G·0
+18:06:02.543308 db@open done T·81.8695ms
+18:06:02.571484 db@close closing
+18:06:02.571812 db@close done T·326.667µs
+=============== Sep 20, 2022 (+08) ===============
+18:06:17.956886 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:06:17.958442 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:17.958600 db@open opening
+18:06:17.958889 journal@recovery F·1
+18:06:17.959179 journal@recovery recovering @6
+18:06:17.959448 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:18.025328 db@janitor F·4 G·0
+18:06:18.025374 db@open done T·66.749ms
+18:06:18.051307 db@close closing
+18:06:18.051742 db@close done T·433.584µs
+=============== Sep 20, 2022 (+08) ===============
+18:06:28.506198 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:06:28.507656 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:28.507870 db@open opening
+18:06:28.508074 journal@recovery F·1
+18:06:28.509155 journal@recovery recovering @8
+18:06:28.510693 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:28.563347 db@janitor F·4 G·0
+18:06:28.564572 db@open done T·56.646208ms
+18:06:28.596686 db@close closing
+18:06:28.597156 db@close done T·354.834µs
+=============== Sep 20, 2022 (+08) ===============
+18:06:34.736084 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:06:34.736933 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:34.736986 db@open opening
+18:06:34.737184 journal@recovery F·1
+18:06:34.737473 journal@recovery recovering @10
+18:06:34.737693 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:06:34.811325 db@janitor F·4 G·0
+18:06:34.811376 db@open done T·74.375291ms
+18:06:34.844373 db@close closing
+18:06:34.844989 db@close done T·375.042µs
+=============== Sep 20, 2022 (+08) ===============
+18:07:16.606103 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:07:16.607482 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:07:16.607684 db@open opening
+18:07:16.607872 journal@recovery F·1
+18:07:16.612748 journal@recovery recovering @12
+18:07:16.617799 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:07:16.682487 db@janitor F·4 G·0
+18:07:16.682549 db@open done T·74.853542ms
+18:08:55.705883 db@close closing
+18:08:55.707299 db@close done T·1.415375ms
+=============== Sep 20, 2022 (+08) ===============
+18:09:17.122624 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:09:17.124222 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:09:17.124420 db@open opening
+18:09:17.124623 journal@recovery F·1
+18:09:17.125169 journal@recovery recovering @14
+18:09:17.151459 memdb@flush created L0@16 N·41 S·5KiB "/F5..53Q,v43":"/pr..7O4,v36"
+18:09:17.152152 version@stat F·[3] S·7KiB[7KiB] Sc·[0.75]
+18:09:17.223135 db@janitor F·5 G·0
+18:09:17.223190 db@open done T·98.814958ms
+18:09:17.259682 db@close closing
+18:09:17.259999 db@close done T·316.583µs
+=============== Sep 20, 2022 (+08) ===============
+18:09:32.833362 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:09:32.835091 version@stat F·[3] S·7KiB[7KiB] Sc·[0.75]
+18:09:32.835307 db@open opening
+18:09:32.835503 journal@recovery F·1
+18:09:32.838007 journal@recovery recovering @17
+18:09:32.841031 version@stat F·[3] S·7KiB[7KiB] Sc·[0.75]
+18:09:32.915877 db@janitor F·5 G·0
+18:09:32.915929 db@open done T·80.625916ms
+=============== Sep 21, 2022 (+08) ===============
+05:18:53.445806 memdb@flush N·28817 S·3MiB
+05:18:53.568060 memdb@flush created L0@22 N·28817 S·3MiB "/F5..OLA,v14607":"/pr..K6Q,v26147"
+05:18:53.591059 version@stat F·[4] S·3MiB[3MiB] Sc·[1.00]
+05:18:53.649746 memdb@flush committed F·1 T·196.204708ms
+05:18:53.670786 journal@remove removed @19
+05:18:53.676758 table@compaction L0·4 -> L1·0 S·3MiB Q·30421
+05:18:53.822205 table@build created L1@23 N·16850 S·2MiB "/F5..OLA,v14607":"/pr..K6Q,v28830"
+05:18:53.890939 table@build created L1@24 N·6553 S·839KiB "/pr..72O,v15425":"/pr..K6Q,v26147"
+05:18:53.893763 version@stat F·[0 2] S·2MiB[0B 2MiB] Sc·[0.00 0.03]
+05:18:53.950048 table@compaction committed F-2 S-179KiB Ke·0 D·5473 T·270.016375ms
+05:18:53.970573 table@remove removed @22
+05:18:53.971051 table@remove removed @16
+05:18:53.971578 table@remove removed @5
+05:18:53.972074 table@remove removed @2
+09:17:49.721099 memdb@flush N·28792 S·3MiB
+09:17:49.931459 memdb@flush created L0@26 N·28792 S·3MiB "/F5..OLA,v50062":"/pr..K6Q,v34839"
+09:17:49.944006 version@stat F·[1 2] S·6MiB[3MiB 2MiB] Sc·[0.25 0.03]
+09:17:49.982065 memdb@flush committed F·1 T·260.144792ms
+09:17:50.001144 journal@remove removed @21
+09:59:55.242019 memdb@flush N·28664 S·3MiB
+09:59:55.346580 memdb@flush created L0@28 N·28664 S·3MiB "/F5..IJQ,v81687":"/pr..K6Q,v79921"
+09:59:55.346677 version@stat F·[2 2] S·10MiB[7MiB 2MiB] Sc·[0.50 0.03]
+09:59:55.365796 memdb@flush committed F·1 T·123.316626ms
+09:59:55.366913 journal@remove removed @25
+10:37:58.071022 memdb@flush N·28742 S·3MiB
+10:37:58.211822 memdb@flush created L0@30 N·28742 S·3MiB "/F5..53Q,v107512":"/pr..75O,v108703"
+10:37:58.212126 version@stat F·[3 2] S·13MiB[10MiB 2MiB] Sc·[0.75 0.03]
+10:37:58.273013 memdb@flush committed F·1 T·201.693292ms
+10:37:58.293278 journal@remove removed @27
+10:38:01.713945 memdb@flush N·28698 S·3MiB
+10:38:01.910679 memdb@flush created L0@32 N·28698 S·3MiB "/pr..75O,v117243":"/pr..75O,v124768"
+10:38:01.911315 version@stat F·[4 2] S·17MiB[14MiB 2MiB] Sc·[1.00 0.03]
+10:38:01.968223 memdb@flush committed F·1 T·254.234791ms
+10:38:01.987690 journal@remove removed @29
+10:38:01.989043 table@compaction L0·4 -> L1·2 S·17MiB Q·145134
+10:38:02.145216 table@build created L1@33 N·16518 S·2MiB "/F5..OLA,v50062":"/pr..K6Q,v40388"
+10:38:02.313084 table@build created L1@34 N·15977 S·2MiB "/pr..2WM,v83091":"/pr..K6Q,v30453"
+10:38:02.444456 table@build created L1@35 N·16039 S·2MiB "/pr..75O,v125222":"/pr..2WM,v106056"
+10:38:02.649499 table@build created L1@36 N·15999 S·2MiB "/pr..K6Q,v74277":"/pr..7O4,v8422"
+10:38:02.758476 table@build created L1@37 N·15983 S·2MiB "/pr..75O,v117154":"/pr..WHQ,v20983"
+10:38:02.899837 table@build created L1@38 N·16086 S·2MiB "/pr..OMC,v20159":"/pr..K6Q,v62628"
+10:38:03.009049 table@build created L1@39 N·16017 S·2MiB "/pr..7O4,v5129":"/pr..75O,v116588"
+10:38:03.170689 table@build created L1@40 N·15805 S·2MiB "/pr..2WM,v90644":"/pr..K6Q,v31270"
+10:38:03.226588 table@build created L1@41 N·6236 S·827KiB "/pr..75O,v134941":"/pr..75O,v124768"
+10:38:03.226813 version@stat F·[0 9] S·17MiB[0B 17MiB] Sc·[0.00 0.17]
+10:38:03.284073 table@compaction committed F+3 S-341KiB Ke·0 D·3639 T·1.2950245s
+10:38:03.284645 table@remove removed @32
+10:38:03.303481 table@remove removed @30
+10:38:03.303714 table@remove removed @28
+10:38:03.303889 table@remove removed @26
+10:38:03.304044 table@remove removed @23
+10:38:03.304145 table@remove removed @24
+10:38:05.340924 memdb@flush N·28604 S·3MiB
+10:38:05.515933 memdb@flush created L0@43 N·28604 S·3MiB "/pr..75O,v166061":"/pr..75O,v144344"
+10:38:05.516076 version@stat F·[1 9] S·20MiB[3MiB 17MiB] Sc·[0.25 0.17]
+10:38:05.590246 memdb@flush committed F·1 T·249.252333ms
+10:38:05.629177 journal@remove removed @31
+10:38:08.715890 memdb@flush N·28626 S·3MiB
+10:38:08.846392 memdb@flush created L0@45 N·28626 S·3MiB "/pr..75O,v172725":"/pr..75O,v197596"
+10:38:08.846480 version@stat F·[2 9] S·24MiB[7MiB 17MiB] Sc·[0.50 0.17]
+10:38:08.903742 memdb@flush committed F·1 T·187.783708ms
+10:38:08.904987 journal@remove removed @42
+10:38:12.195880 memdb@flush N·28634 S·3MiB
+10:38:12.362475 memdb@flush created L0@47 N·28634 S·3MiB "/pr..75O,v211788":"/pr..75O,v207986"
+10:38:12.362626 version@stat F·[3 9] S·28MiB[11MiB 17MiB] Sc·[0.75 0.17]
+10:38:12.400674 memdb@flush committed F·1 T·204.551292ms
+10:38:12.419924 journal@remove removed @44
+10:38:15.692717 memdb@flush N·28624 S·3MiB
+10:38:15.881772 memdb@flush created L0@49 N·28624 S·3MiB "/pr..75O,v257880":"/pr..75O,v251657"
+10:38:15.882272 version@stat F·[4 9] S·31MiB[14MiB 17MiB] Sc·[1.00 0.17]
+10:38:15.940825 memdb@flush committed F·1 T·247.301417ms
+10:38:15.959223 journal@remove removed @46
+10:38:15.959373 table@compaction L0·4 -> L1·9 S·31MiB Q·260062
+10:38:16.131321 table@build created L1@50 N·16445 S·2MiB "/F5..OLA,v50062":"/pr..75O,v161011"
+10:38:16.289656 table@build created L1@51 N·15969 S·2MiB "/pr..75O,v176965":"/pr..75O,v157611"
+10:38:16.424920 table@build created L1@52 N·15940 S·2MiB "/pr..K6Q,v39163":"/pr..VUM,v22062"
+10:38:16.578265 table@build created L1@53 N·15941 S·2MiB "/pr..FKG,v22100":"/pr..75O,v154411"
+10:38:16.709106 table@build created L1@54 N·15986 S·2MiB "/pr..75O,v210871":"/pr..75O,v193010"
+10:38:16.825974 table@build created L1@55 N·15944 S·2MiB "/pr..7O4,v1663":"/pr..2WM,v85185"
+10:38:16.932655 table@build created L1@56 N·15946 S·2MiB "/pr..75O,v155570":"/pr..2WM,v97066"
+10:38:17.090436 table@build created L1@57 N·15951 S·2MiB "/pr..2WM,v85472":"/pr..2WM,v92257"
+10:38:17.236142 table@build created L1@58 N·15939 S·2MiB "/pr..75O,v172259":"/pr..2WM,v103730"
+10:38:17.370558 table@build created L1@59 N·16010 S·2MiB "/pr..K6Q,v79386":"/pr..75O,v208100"
+10:38:17.480929 table@build created L1@60 N·15965 S·2MiB "/pr..75O,v132459":"/pr..75O,v126812"
+10:38:17.639067 table@build created L1@61 N·15946 S·2MiB "/pr..75O,v229433":"/pr..75O,v249866"
+10:38:17.775187 table@build created L1@62 N·15931 S·2MiB "/pr..75O,v146876":"/pr..5MC,v45702"
+10:38:17.910567 table@build created L1@63 N·15868 S·2MiB "/pr..5MC,v45725":"/pr..75O,v162054"
+10:38:18.046071 table@build created L1@64 N·15821 S·2MiB "/pr..75O,v200255":"/pr..K6Q,v64411"
+10:38:18.149770 table@build created L1@65 N·9537 S·1MiB "/pr..K6Q,v76167":"/pr..75O,v144344"
+10:38:18.149911 version@stat F·[0 16] S·31MiB[0B 31MiB] Sc·[0.00 0.32]
+10:38:18.213126 table@compaction committed F+3 S-147KiB Ke·0 D·9 T·2.253752459s
+10:38:18.231855 table@remove removed @49
+10:38:18.232416 table@remove removed @47
+10:38:18.232795 table@remove removed @45
+10:38:18.233090 table@remove removed @43
+10:38:18.233347 table@remove removed @33
+10:38:18.233568 table@remove removed @34
+10:38:18.233826 table@remove removed @35
+10:38:18.234245 table@remove removed @36
+10:38:18.234585 table@remove removed @37
+10:38:18.234932 table@remove removed @38
+10:38:18.235268 table@remove removed @39
+10:38:18.235550 table@remove removed @40
+10:38:18.235756 table@remove removed @41
+11:37:51.675118 memdb@flush N·28815 S·3MiB
+11:37:51.775734 memdb@flush created L0@67 N·28815 S·3MiB "/F5..OLA,v282498":"/pr..B4G,v284262"
+11:37:51.776376 version@stat F·[1 16] S·35MiB[3MiB 31MiB] Sc·[0.25 0.32]
+11:37:51.796751 memdb@flush committed F·1 T·121.198125ms
+11:37:51.798975 journal@remove removed @48
+12:53:35.866046 memdb@flush N·28713 S·3MiB
+12:53:35.946422 memdb@flush created L0@69 N·28713 S·3MiB "/F5..LHQ,v295366":"/pr..KMW,v293267"
+12:53:35.947102 version@stat F·[2 16] S·39MiB[7MiB 31MiB] Sc·[0.50 0.32]
+12:53:36.060369 memdb@flush committed F·1 T·193.583833ms
+12:53:36.062919 journal@remove removed @66
+13:40:21.123325 memdb@flush N·28702 S·3MiB
+13:40:21.274881 memdb@flush created L0@71 N·28702 S·3MiB "/F5..IJQ,v333057":"/pr..HYK,v336388"
+13:40:21.291967 version@stat F·[3 16] S·42MiB[10MiB 31MiB] Sc·[0.75 0.32]
+13:40:21.330285 memdb@flush committed F·1 T·206.714166ms
+13:40:21.349435 journal@remove removed @68
+13:42:36.867680 memdb@flush N·28704 S·3MiB
+13:42:37.010936 memdb@flush created L0@73 N·28704 S·3MiB "/pr..K6Q,v372709":"/pr..K6Q,v370827"
+13:42:37.011008 version@stat F·[4 16] S·46MiB[14MiB 31MiB] Sc·[1.00 0.32]
+13:42:37.069209 memdb@flush committed F·1 T·201.295917ms
+13:42:37.087240 journal@remove removed @70
+13:42:37.087688 table@compaction L0·4 -> L1·16 S·46MiB Q·374739
+13:42:37.221568 table@build created L1@74 N·16672 S·2MiB "/F5..OLA,v282498":"/pr..2WM,v107391"
+13:42:37.379266 table@build created L1@75 N·15954 S·2MiB "/pr..75O,v172819":"/pr..2WM,v96394"
+13:42:37.509552 table@build created L1@76 N·16041 S·2MiB "/pr..K6Q,v357080":"/pr..K6Q,v358063"
+13:42:37.640868 table@build created L1@77 N·15962 S·2MiB "/pr..QR2,v306182":"/pr..75O,v250039"
+13:42:37.691589 table@build created L1@78 N·15950 S·2MiB "/pr..75O,v123493":"/pr..KMW,v327014"
+13:42:37.742555 table@build created L1@79 N·15948 S·2MiB "/pr..HY4,v284890":"/pr..KMW,v294452"
+13:42:37.783483 table@build created L1@80 N·16006 S·2MiB "/pr..75O,v271589":"/pr..2WM,v98173"
+13:42:37.823109 table@build created L1@81 N·15986 S·2MiB "/pr..75O,v266209":"/pr..HYK,v351043"
+13:42:37.881141 table@build created L1@82 N·15951 S·2MiB "/pr..FEY,v51849":"/pr..2WM,v107357"
+13:42:37.921351 table@build created L1@83 N·15962 S·2MiB "/pr..75O,v236469":"/pr..7O4,v53252"
+13:42:37.957495 table@build created L1@84 N·15942 S·2MiB "/pr..HYK,v352605":"/pr..75O,v174541"
+13:42:37.999847 table@build created L1@85 N·15966 S·2MiB "/pr..K6Q,v31682":"/pr..QR2,v315724"
+13:42:38.036552 table@build created L1@86 N·15961 S·2MiB "/pr..75O,v228423":"/pr..QR2,v312489"
+13:42:38.073640 table@build created L1@87 N·15968 S·2MiB "/pr..K6Q,v367646":"/pr..75O,v137128"
+13:42:38.110432 table@build created L1@88 N·16057 S·2MiB "/pr..B4G,v14972":"/pr..75O,v121391"
+13:42:38.146100 table@build created L1@89 N·15977 S·2MiB "/pr..K6Q,v355142":"/pr..75O,v193975"
+13:42:38.183229 table@build created L1@90 N·15964 S·2MiB "/pr..HYK,v337824":"/pr..75O,v109421"
+13:42:38.216502 table@build created L1@91 N·15954 S·2MiB "/pr..75O,v258543":"/pr..75O,v228331"
+13:42:38.251892 table@build created L1@92 N·15962 S·2MiB "/pr..75O,v121596":"/pr..75O,v260679"
+13:42:38.287522 table@build created L1@93 N·15891 S·2MiB "/pr..K6Q,v37734":"/pr..B4G,v299133"
+13:42:38.321397 table@build created L1@94 N·15871 S·2MiB "/pr..75O,v228237":"/pr..75O,v163374"
+13:42:38.353434 table@build created L1@95 N·15886 S·2MiB "/pr..K6Q,v80693":"/pr..75O,v199629"
+13:42:38.385934 table@build created L1@96 N·9259 S·1MiB "/pr..K6Q,v65363":"/pr..75O,v144344"
+13:42:38.386178 version@stat F·[0 23] S·46MiB[0B 46MiB] Sc·[0.00 0.46]
+13:42:38.425133 table@compaction committed F+3 S-405KiB Ke·0 D·2983 T·1.337424542s
+13:42:38.425493 table@remove removed @73
+13:42:38.425905 table@remove removed @71
+13:42:38.426329 table@remove removed @69
+13:42:38.426559 table@remove removed @67
+13:42:38.426740 table@remove removed @50
+13:42:38.426946 table@remove removed @51
+13:42:38.427106 table@remove removed @52
+13:42:38.427274 table@remove removed @53
+13:42:38.427449 table@remove removed @54
+13:42:38.427614 table@remove removed @55
+13:42:38.427770 table@remove removed @56
+13:42:38.427909 table@remove removed @57
+13:42:38.428042 table@remove removed @58
+13:42:38.428190 table@remove removed @59
+13:42:38.428334 table@remove removed @60
+13:42:38.428473 table@remove removed @61
+13:42:38.428810 table@remove removed @62
+13:42:38.428968 table@remove removed @63
+13:42:38.429108 table@remove removed @64
+13:42:38.429230 table@remove removed @65
+15:12:18.838441 memdb@flush N·28859 S·3MiB
+15:12:18.978357 memdb@flush created L0@98 N·28859 S·3MiB "/F5..IYA,v385400":"/pr..K6Q,v377423"
+15:12:18.978959 version@stat F·[1 23] S·49MiB[3MiB 46MiB] Sc·[0.25 0.46]
+15:12:19.058970 memdb@flush committed F·1 T·219.639125ms
+15:12:19.080379 journal@remove removed @72
+15:12:22.193960 memdb@flush N·28788 S·3MiB
+15:12:22.400002 memdb@flush created L0@100 N·28788 S·3MiB "/pr..MTA,v408776":"/pr..MTA,v410897"
+15:12:22.400135 version@stat F·[2 23] S·53MiB[7MiB 46MiB] Sc·[0.50 0.46]
+15:12:22.438221 memdb@flush committed F·1 T·244.1185ms
+15:12:22.438958 journal@remove removed @97
+15:12:25.678208 memdb@flush N·28702 S·3MiB
+15:12:25.772804 memdb@flush created L0@102 N·28702 S·3MiB "/pr..MTA,v432043":"/pr..MTA,v443408"
+15:12:25.772886 version@stat F·[3 23] S·57MiB[11MiB 46MiB] Sc·[0.75 0.46]
+15:12:25.791867 memdb@flush committed F·1 T·113.387917ms
+15:12:25.792566 journal@remove removed @99
+17:09:36.204884 table@compaction L0·3 -> L1·23 S·57MiB Q·480613
+17:09:36.240732 table@build created L1@103 N·16772 S·2MiB "/F5..OLA,v282498":"/pr..MTA,v444234"
+17:09:36.268790 table@build created L1@104 N·15964 S·2MiB "/pr..2WM,v94870":"/pr..75O,v212715"
+17:09:36.311685 table@build created L1@105 N·16128 S·2MiB "/pr..75O,v135474":"/pr..QR2,v318023"
+17:09:36.347881 table@build created L1@106 N·16009 S·2MiB "/pr..75O,v119236":"/pr..75O,v203402"
+17:09:36.388601 table@build created L1@107 N·15981 S·2MiB "/pr..B4G,v18341":"/pr..75O,v143453"
+17:09:36.418394 table@build created L1@108 N·16021 S·2MiB "/pr..2WM,v98487":"/pr..2WM,v97871"
+17:09:36.450005 table@build created L1@109 N·16014 S·2MiB "/pr..2WM,v104471":"/pr..MTA,v455481"
+17:09:36.482124 table@build created L1@110 N·16054 S·2MiB "/pr..K6Q,v25263":"/pr..K6Q,v12108"
+17:09:36.514101 table@build created L1@111 N·16001 S·2MiB "/pr..75O,v229269":"/pr..MTA,v440590"
+17:09:36.544735 table@build created L1@112 N·16006 S·2MiB "/pr..WKS,v383167":"/pr..MTA,v404161"
+17:09:36.572952 table@build created L1@113 N·15988 S·2MiB "/pr..75O,v272796":"/pr..2WM,v90439"
+17:09:36.602492 table@build created L1@114 N·16010 S·2MiB "/pr..75O,v167152":"/pr..75O,v247852"
+17:09:36.633076 table@build created L1@115 N·15981 S·2MiB "/pr..MTA,v433081":"/pr..XQE,v331464"
+17:09:36.666269 table@build created L1@116 N·16003 S·2MiB "/pr..2WM,v98095":"/pr..75O,v133722"
+17:09:36.698167 table@build created L1@117 N·16009 S·2MiB "/pr..K6Q,v29376":"/pr..HY4,v301009"
+17:09:36.749832 table@build created L1@118 N·16007 S·2MiB "/pr..75O,v177677":"/pr..MTA,v398876"
+17:09:36.780202 table@build created L1@119 N·16011 S·2MiB "/pr..MTA,v458496":"/pr..QR2,v315984"
+17:09:36.811459 table@build created L1@120 N·16077 S·2MiB "/pr..75O,v238922":"/pr..75O,v142290"
+17:09:36.843452 table@build created L1@121 N·16047 S·2MiB "/pr..75O,v195654":"/pr..B4G,v284020"
+17:09:36.873390 table@build created L1@122 N·16024 S·2MiB "/pr..K6Q,v70790":"/pr..MTA,v396438"
+17:09:36.906042 table@build created L1@123 N·15993 S·2MiB "/pr..MTA,v407592":"/pr..75O,v136196"
+17:09:36.939139 table@build created L1@124 N·16014 S·2MiB "/pr..2WM,v95527":"/pr..2WM,v104312"
+17:09:36.971962 table@build created L1@125 N·15985 S·2MiB "/pr..2WM,v98796":"/pr..MTA,v454987"
+17:09:37.004814 table@build created L1@126 N·15993 S·2MiB "/pr..MTA,v392420":"/pr..2WM,v95070"
+17:09:37.035478 table@build created L1@127 N·15908 S·2MiB "/pr..2WM,v106928":"/pr..K6Q,v42032"
+17:09:37.053035 table@build created L1@128 N·15893 S·2MiB "/pr..K6Q,v58021":"/pr..75O,v222932"
+17:09:37.085144 table@build created L1@129 N·15887 S·2MiB "/pr..75O,v194303":"/pr..75O,v195702"
+17:09:37.114738 table@build created L1@130 N·13635 S·1MiB "/pr..K6Q,v41041":"/pr..75O,v144344"
+17:09:37.116687 version@stat F·[0 28] S·56MiB[0B 56MiB] Sc·[0.00 0.57]
+17:09:37.151626 table@compaction committed F+2 S-286KiB Ke·0 D·1024 T·944.670875ms
+17:09:37.152801 table@remove removed @102
+17:09:37.152999 table@remove removed @100
+17:09:37.153178 table@remove removed @98
+17:09:37.153855 table@remove removed @74
+17:09:37.154707 table@remove removed @75
+17:09:37.159530 table@remove removed @76
+17:09:37.165212 table@remove removed @77
+17:09:37.165328 table@remove removed @78
+17:09:37.165445 table@remove removed @79
+17:09:37.165567 table@remove removed @80
+17:09:37.165846 table@remove removed @81
+17:09:37.165955 table@remove removed @82
+17:09:37.166076 table@remove removed @83
+17:09:37.166198 table@remove removed @84
+17:09:37.171329 table@remove removed @85
+17:09:37.171476 table@remove removed @86
+17:09:37.171614 table@remove removed @87
+17:09:37.171747 table@remove removed @88
+17:09:37.171866 table@remove removed @89
+17:09:37.171982 table@remove removed @90
+17:09:37.172097 table@remove removed @91
+17:09:37.172206 table@remove removed @92
+17:09:37.172311 table@remove removed @93
+17:09:37.172440 table@remove removed @94
+17:09:37.172739 table@remove removed @95
+17:09:37.172884 table@remove removed @96
+18:34:24.291182 memdb@flush N·28930 S·3MiB
+18:34:24.394532 memdb@flush created L0@132 N·28930 S·3MiB "/F5..WKI,v484459":"/pr..KMW,v472373"
+18:34:24.395242 version@stat F·[1 28] S·60MiB[3MiB 56MiB] Sc·[0.25 0.57]
+18:34:24.415706 memdb@flush committed F·1 T·123.779875ms
+18:34:24.418839 journal@remove removed @101
+20:09:38.570906 table@compaction L0·1 -> L1·28 S·60MiB Q·510593
+20:09:38.623026 table@build created L1@133 N·16917 S·2MiB "/F5..WKI,v484459":"/pr..75O,v217868"
+20:09:38.704950 table@build created L1@134 N·16001 S·2MiB "/pr..K6Q,v357880":"/pr..K6Q,v75346"
+20:09:38.741297 table@build created L1@135 N·16148 S·2MiB "/pr..75O,v210063":"/pr..2WM,v89234"
+20:09:38.773166 table@build created L1@136 N·16021 S·2MiB "/pr..HYK,v335264":"/pr..QR2,v324881"
+20:09:38.800177 table@build created L1@137 N·15989 S·2MiB "/pr..B4G,v44669":"/pr..5QY,v107793"
+20:09:38.825700 table@build created L1@138 N·16003 S·2MiB "/pr..75O,v157944":"/pr..MTA,v423109"
+20:09:38.867271 table@build created L1@139 N·16043 S·2MiB "/pr..75O,v269561":"/pr..75O,v196448"
+20:09:38.920141 table@build created L1@140 N·16079 S·2MiB "/pr..MTA,v420382":"/pr..75O,v127945"
+20:09:38.950162 table@build created L1@141 N·16045 S·2MiB "/pr..2WM,v102643":"/pr..75O,v112981"
+20:09:38.983399 table@build created L1@142 N·16036 S·2MiB "/pr..2WM,v93113":"/pr..K6Q,v33843"
+20:09:39.017020 table@build created L1@143 N·16038 S·2MiB "/pr..75O,v255421":"/pr..75O,v235189"
+20:09:39.042807 table@build created L1@144 N·16030 S·2MiB "/pr..K6Q,v362930":"/pr..ODG,v1439"
+20:09:39.073569 table@build created L1@145 N·16037 S·2MiB "/pr..HYK,v349689":"/pr..75O,v180178"
+20:09:39.103699 table@build created L1@146 N·16021 S·2MiB "/pr..75O,v280419":"/pr..QR2,v319446"
+20:09:39.137813 table@build created L1@147 N·16027 S·2MiB "/pr..75O,v139035":"/pr..2WM,v96149"
+20:09:39.169629 table@build created L1@148 N·16029 S·2MiB "/pr..MTA,v393452":"/pr..MTA,v455663"
+20:09:39.201427 table@build created L1@149 N·16033 S·2MiB "/pr..K6Q,v373336":"/pr..75O,v222120"
+20:09:39.233377 table@build created L1@150 N·16033 S·2MiB "/pr..75O,v144803":"/pr..75O,v135008"
+20:09:39.265235 table@build created L1@151 N·16123 S·2MiB "/pr..MTA,v455773":"/pr..QR2,v305745"
+20:09:39.296620 table@build created L1@152 N·16038 S·2MiB "/pr..75O,v109701":"/pr..75O,v219988"
+20:09:39.328503 table@build created L1@153 N·16038 S·2MiB "/pr..75O,v153850":"/pr..KMW,v472354"
+20:09:39.360400 table@build created L1@154 N·16017 S·2MiB "/pr..75O,v151924":"/pr..EKE,v460396"
+20:09:39.395100 table@build created L1@155 N·16050 S·2MiB "/pr..MTA,v397829":"/pr..75O,v182611"
+20:09:39.426097 table@build created L1@156 N·16018 S·2MiB "/pr..MTA,v438662":"/pr..75O,v254895"
+20:09:39.456646 table@build created L1@157 N·16040 S·2MiB "/pr..MTA,v438350":"/pr..K6Q,v371475"
+20:09:39.489847 table@build created L1@158 N·15976 S·2MiB "/pr..75O,v148560":"/pr..75O,v224238"
+20:09:39.520569 table@build created L1@159 N·15938 S·2MiB "/pr..HY4,v284999":"/pr..HYK,v345413"
+20:09:39.552406 table@build created L1@160 N·15941 S·2MiB "/pr..K6Q,v357495":"/pr..75O,v184300"
+20:09:39.584409 table@build created L1@161 N·15945 S·2MiB "/pr..K6Q,v355154":"/pr..K6Q,v56752"
+20:09:39.606884 table@build created L1@162 N·7304 S·959KiB "/pr..75O,v179776":"/pr..75O,v144344"
+20:09:39.617821 version@stat F·[0 30] S·60MiB[0B 60MiB] Sc·[0.00 0.60]
+20:09:39.627512 table@compaction committed F+1 S-255KiB Ke·0 D·2387 T·1.056290667s
+20:09:39.627743 table@remove removed @132
+20:09:39.628328 table@remove removed @103
+20:09:39.628442 table@remove removed @104
+20:09:39.628548 table@remove removed @105
+20:09:39.628651 table@remove removed @106
+20:09:39.628756 table@remove removed @107
+20:09:39.628852 table@remove removed @108
+20:09:39.628946 table@remove removed @109
+20:09:39.629301 table@remove removed @110
+20:09:39.629400 table@remove removed @111
+20:09:39.629490 table@remove removed @112
+20:09:39.629617 table@remove removed @113
+20:09:39.629709 table@remove removed @114
+20:09:39.629812 table@remove removed @115
+20:09:39.629921 table@remove removed @116
+20:09:39.630030 table@remove removed @117
+20:09:39.630146 table@remove removed @118
+20:09:39.630252 table@remove removed @119
+20:09:39.630362 table@remove removed @120
+20:09:39.630464 table@remove removed @121
+20:09:39.630565 table@remove removed @122
+20:09:39.630752 table@remove removed @123
+20:09:39.630845 table@remove removed @124
+20:09:39.630938 table@remove removed @125
+20:09:39.631022 table@remove removed @126
+20:09:39.631107 table@remove removed @127
+20:09:39.631192 table@remove removed @128
+20:09:39.631275 table@remove removed @129
+20:09:39.631358 table@remove removed @130
+22:09:40.273599 memdb@flush N·28826 S·3MiB
+22:09:40.363738 memdb@flush created L0@164 N·28826 S·3MiB "/F5..OLA,v506904":"/pr..K6Q,v490050"
+22:09:40.364229 version@stat F·[1 30] S·63MiB[3MiB 60MiB] Sc·[0.25 0.60]
+22:09:40.383941 memdb@flush committed F·1 T·110.005084ms
+22:09:40.386269 journal@remove removed @131
+23:09:41.469412 table@compaction L0·1 -> L1·30 S·63MiB Q·525804
+23:09:41.537027 table@build created L1@165 N·17058 S·2MiB "/F5..WKI,v484459":"/pr..FPG,v81834"
+23:09:41.587161 table@build created L1@166 N·16009 S·2MiB "/pr..K6Q,v63558":"/pr..K6Q,v362772"
+23:09:41.619976 table@build created L1@167 N·16140 S·2MiB "/pr..K6Q,v502610":"/pr..2WM,v101236"
+23:09:41.645133 table@build created L1@168 N·16051 S·2MiB "/pr..K6Q,v502353":"/pr..75O,v130815"
+23:09:41.686428 table@build created L1@169 N·15996 S·2MiB "/pr..HY4,v281892":"/pr..QLI,v379768"
+23:09:41.718676 table@build created L1@170 N·16024 S·2MiB "/pr..K6Q,v62257":"/pr..75O,v176348"
+23:09:41.749588 table@build created L1@171 N·16028 S·2MiB "/pr..MTA,v431098":"/pr..MTA,v444466"
+23:09:41.780272 table@build created L1@172 N·16052 S·2MiB "/pr..2WM,v86320":"/pr..HYK,v342702"
+23:09:41.809883 table@build created L1@173 N·16089 S·2MiB "/pr..75O,v274644":"/pr..QR2,v317456"
+23:09:41.852274 table@build created L1@174 N·16062 S·2MiB "/pr..75O,v206758":"/pr..2WM,v100212"
+23:09:41.886093 table@build created L1@175 N·16040 S·2MiB "/pr..KMW,v472379":"/pr..HYK,v354159"
+23:09:41.917046 table@build created L1@176 N·16039 S·2MiB "/pr..75O,v220254":"/pr..75O,v142609"
+23:09:41.949687 table@build created L1@177 N·16043 S·2MiB "/pr..75O,v268896":"/pr..K6Q,v360946"
+23:09:41.982878 table@build created L1@178 N·16046 S·2MiB "/pr..75O,v242495":"/pr..75O,v247958"
+23:09:42.015614 table@build created L1@179 N·16035 S·2MiB "/pr..75O,v150413":"/pr..75O,v247363"
+23:09:42.049451 table@build created L1@180 N·16040 S·2MiB "/pr..MTA,v421606":"/pr..75O,v213816"
+23:09:42.082588 table@build created L1@181 N·16036 S·2MiB "/pr..75O,v195880":"/pr..MTA,v393829"
+23:09:42.114310 table@build created L1@182 N·16054 S·2MiB "/pr..75O,v515633":"/pr..75O,v161105"
+23:09:42.142179 table@build created L1@183 N·16045 S·2MiB "/pr..K6Q,v79943":"/pr..75O,v187425"
+23:09:42.177482 table@build created L1@184 N·16127 S·2MiB "/pr..K6Q,v38869":"/pr..2WM,v82678"
+23:09:42.210264 table@build created L1@185 N·16066 S·2MiB "/pr..75O,v270025":"/pr..75O,v151990"
+23:09:42.241144 table@build created L1@186 N·16023 S·2MiB "/pr..MTA,v429896":"/pr..HYK,v384929"
+23:09:42.271086 table@build created L1@187 N·16050 S·2MiB "/pr..HY4,v508012":"/pr..HYK,v351777"
+23:09:42.302691 table@build created L1@188 N·16067 S·2MiB "/pr..MTA,v392352":"/pr..MTA,v417654"
+23:09:42.335862 table@build created L1@189 N·16017 S·2MiB "/pr..2WM,v103598":"/pr..MTA,v406097"
+23:09:42.367598 table@build created L1@190 N·16056 S·2MiB "/pr..75O,v251298":"/pr..75O,v236548"
+23:09:42.401407 table@build created L1@191 N·15985 S·2MiB "/pr..5WE,v8661":"/pr..HY4,v508407"
+23:09:42.429161 table@build created L1@192 N·15950 S·2MiB "/pr..K6Q,v496482":"/pr..75O,v131540"
+23:09:42.465832 table@build created L1@193 N·15969 S·2MiB "/pr..75O,v255980":"/pr..K6Q,v376804"
+23:09:42.498852 table@build created L1@194 N·15975 S·2MiB "/pr..HYK,v333739":"/pr..HYK,v350315"
+23:09:42.531575 table@build created L1@195 N·14017 S·1MiB "/pr..B5Q,v487590":"/pr..K6Q,v490050"
+23:09:42.532097 version@stat F·[0 31] S·63MiB[0B 63MiB] Sc·[0.00 0.63]
+23:09:42.551934 table@compaction committed F~ S-546KiB Ke·0 D·5595 T·1.082103458s
+23:09:42.552412 table@remove removed @164
+23:09:42.552884 table@remove removed @133
+23:09:42.553022 table@remove removed @134
+23:09:42.553150 table@remove removed @135
+23:09:42.553275 table@remove removed @136
+23:09:42.553384 table@remove removed @137
+23:09:42.553496 table@remove removed @138
+23:09:42.553599 table@remove removed @139
+23:09:42.553711 table@remove removed @140
+23:09:42.553812 table@remove removed @141
+23:09:42.553912 table@remove removed @142
+23:09:42.554048 table@remove removed @143
+23:09:42.554290 table@remove removed @144
+23:09:42.554386 table@remove removed @145
+23:09:42.554498 table@remove removed @146
+23:09:42.554593 table@remove removed @147
+23:09:42.554701 table@remove removed @148
+23:09:42.554800 table@remove removed @149
+23:09:42.554899 table@remove removed @150
+23:09:42.555012 table@remove removed @151
+23:09:42.555115 table@remove removed @152
+23:09:42.555224 table@remove removed @153
+23:09:42.555461 table@remove removed @154
+23:09:42.555587 table@remove removed @155
+23:09:42.555690 table@remove removed @156
+23:09:42.555792 table@remove removed @157
+23:09:42.555897 table@remove removed @158
+23:09:42.555978 table@remove removed @159
+23:09:42.561199 table@remove removed @160
+23:09:42.561422 table@remove removed @161
+23:09:42.561494 table@remove removed @162
+=============== Sep 22, 2022 (+08) ===============
+00:52:05.428488 memdb@flush N·28890 S·3MiB
+00:52:05.508167 memdb@flush created L0@197 N·28890 S·3MiB "/F5..IYA,v523037":"/pr..RLY,v530541"
+00:52:05.510936 version@stat F·[1 31] S·66MiB[3MiB 63MiB] Sc·[0.25 0.63]
+00:52:05.532821 memdb@flush committed F·1 T·103.813876ms
+00:52:05.536110 journal@remove removed @163
+01:20:42.205436 memdb@flush N·28947 S·3MiB
+01:20:42.322702 memdb@flush created L0@199 N·28947 S·3MiB "/F5..PPI,v555268":"/pr..HY4,v556866"
+01:20:42.324904 version@stat F·[2 31] S·69MiB[6MiB 63MiB] Sc·[0.50 0.63]
+01:20:42.381996 memdb@flush committed F·1 T·176.227124ms
+01:20:42.382941 journal@remove removed @196
+01:26:16.148508 memdb@flush N·28580 S·3MiB
+01:26:16.201371 memdb@flush created L0@201 N·28580 S·3MiB "/pr..UQU,v579554":"/pr..UQU,v599105"
+01:26:16.201431 version@stat F·[3 31] S·73MiB[10MiB 63MiB] Sc·[0.75 0.63]
+01:26:16.238688 memdb@flush committed F·1 T·88.334292ms
+01:26:16.239489 journal@remove removed @198
+02:33:38.677380 memdb@flush N·28817 S·3MiB
+02:33:38.758585 memdb@flush created L0@203 N·28817 S·3MiB "/F5..WKI,v629516":"/pr..75O,v608154"
+02:33:38.758678 version@stat F·[4 31] S·77MiB[14MiB 63MiB] Sc·[1.00 0.63]
+02:33:38.778805 memdb@flush committed F·1 T·101.141541ms
+02:33:38.780341 journal@remove removed @200
+02:33:38.781055 table@compaction L0·4 -> L1·31 S·77MiB Q·632793
+02:33:38.830414 table@build created L1@204 N·17459 S·2MiB "/F5..WKI,v629516":"/pr..75O,v255496"
+02:33:38.895292 table@build created L1@205 N·16049 S·2MiB "/pr..K6Q,v40893":"/pr..QR2,v322917"
+02:33:38.947343 table@build created L1@206 N·16026 S·2MiB "/pr..75O,v266091":"/pr..2WM,v87850"
+02:33:38.984098 table@build created L1@207 N·16233 S·2MiB "/pr..75O,v208760":"/pr..K6Q,v488900"
+02:33:39.020839 table@build created L1@208 N·16062 S·2MiB "/pr..75O,v127221":"/pr..75O,v196147"
+02:33:39.057723 table@build created L1@209 N·16023 S·2MiB "/pr..75O,v250781":"/pr..UQU,v583851"
+02:33:39.113645 table@build created L1@210 N·16016 S·2MiB "/pr..MTA,v387352":"/pr..75O,v232642"
+02:33:39.148703 table@build created L1@211 N·16060 S·2MiB "/pr..RLY,v528650":"/pr..75O,v203378"
+02:33:39.172690 table@build created L1@212 N·16026 S·2MiB "/pr..3JY,v46665":"/pr..75O,v146087"
+02:33:39.205930 table@build created L1@213 N·16108 S·2MiB "/pr..K6Q,v25367":"/pr..YK2,v629861"
+02:33:39.239807 table@build created L1@214 N·16072 S·2MiB "/pr..K6Q,v33842":"/pr..75O,v152856"
+02:33:39.272594 table@build created L1@215 N·16039 S·2MiB "/pr..75O,v161228":"/pr..75O,v177943"
+02:33:39.305501 table@build created L1@216 N·16026 S·2MiB "/pr..2WM,v93547":"/pr..K6Q,v62719"
+02:33:39.359121 table@build created L1@217 N·16042 S·2MiB "/pr..HYK,v345062":"/pr..MTA,v442509"
+02:33:39.392385 table@build created L1@218 N·16033 S·2MiB "/pr..MTA,v457793":"/pr..75O,v160628"
+02:33:39.450473 table@build created L1@219 N·16062 S·2MiB "/pr..MTA,v444970":"/pr..75O,v267612"
+02:33:39.484527 table@build created L1@220 N·16019 S·2MiB "/pr..75O,v612827":"/pr..75O,v613586"
+02:33:39.519307 table@build created L1@221 N·16062 S·2MiB "/pr..K6Q,v25870":"/pr..K6Q,v37836"
+02:33:39.553165 table@build created L1@222 N·16012 S·2MiB "/pr..75O,v126014":"/pr..HYK,v350098"
+02:33:39.578782 table@build created L1@223 N·16041 S·2MiB "/pr..UQU,v578150":"/pr..ITC,v50549"
+02:33:39.610211 table@build created L1@224 N·16051 S·2MiB "/pr..3JY,v616395":"/pr..J3Q,v107617"
+02:33:39.642940 table@build created L1@225 N·16041 S·2MiB "/pr..5QY,v623664":"/pr..K6Q,v489271"
+02:33:39.695782 table@build created L1@226 N·16124 S·2MiB "/pr..K6Q,v358873":"/pr..75O,v226600"
+02:33:39.729576 table@build created L1@227 N·16056 S·2MiB "/pr..2WM,v93119":"/pr..75O,v235158"
+02:33:39.763459 table@build created L1@228 N·16096 S·2MiB "/pr..MTA,v443070":"/pr..HYK,v351455"
+02:33:39.796459 table@build created L1@229 N·16031 S·2MiB "/pr..7O4,v506307":"/pr..2WM,v91029"
+02:33:39.830205 table@build created L1@230 N·16035 S·2MiB "/pr..KMW,v470698":"/pr..75O,v150623"
+02:33:39.870347 table@build created L1@231 N·16055 S·2MiB "/pr..K6Q,v68866":"/pr..75O,v182076"
+02:33:39.904184 table@build created L1@232 N·16031 S·2MiB "/pr..MTA,v435825":"/pr..MTA,v392720"
+02:33:39.935156 table@build created L1@233 N·16037 S·2MiB "/pr..QR2,v308899":"/pr..MTA,v396691"
+02:33:39.968925 table@build created L1@234 N·16034 S·2MiB "/pr..75O,v185677":"/pr..K6Q,v44409"
+02:33:40.001766 table@build created L1@235 N·15951 S·2MiB "/pr..KMW,v294168":"/pr..PE4,v524117"
+02:33:40.055885 table@build created L1@236 N·15956 S·2MiB "/pr..K6Q,v31464":"/pr..75O,v265609"
+02:33:40.089372 table@build created L1@237 N·15970 S·2MiB "/pr..75O,v154412":"/pr..75O,v121349"
+02:33:40.122152 table@build created L1@238 N·15966 S·2MiB "/pr..HYK,v606335":"/pr..K6Q,v366941"
+02:33:40.153237 table@build created L1@239 N·15986 S·2MiB "/pr..75O,v111212":"/pr..K6Q,v373496"
+02:33:40.206213 table@build created L1@240 N·14954 S·1MiB "/pr..K6Q,v75133":"/pr..RLY,v530541"
+02:33:40.206478 version@stat F·[0 37] S·75MiB[0B 75MiB] Sc·[0.00 0.75]
+02:33:40.226321 table@compaction committed F+2 S-1MiB Ke·0 D·17579 T·1.445270875s
+02:33:40.226499 table@remove removed @203
+02:33:40.226853 table@remove removed @201
+02:33:40.227023 table@remove removed @199
+02:33:40.227167 table@remove removed @197
+02:33:40.227275 table@remove removed @165
+02:33:40.227378 table@remove removed @166
+02:33:40.227470 table@remove removed @167
+02:33:40.227567 table@remove removed @168
+02:33:40.227660 table@remove removed @169
+02:33:40.227759 table@remove removed @170
+02:33:40.227856 table@remove removed @171
+02:33:40.227954 table@remove removed @172
+02:33:40.228054 table@remove removed @173
+02:33:40.228196 table@remove removed @174
+02:33:40.228306 table@remove removed @175
+02:33:40.228427 table@remove removed @176
+02:33:40.228559 table@remove removed @177
+02:33:40.228667 table@remove removed @178
+02:33:40.228776 table@remove removed @179
+02:33:40.228902 table@remove removed @180
+02:33:40.229018 table@remove removed @181
+02:33:40.229138 table@remove removed @182
+02:33:40.229244 table@remove removed @183
+02:33:40.229345 table@remove removed @184
+02:33:40.229450 table@remove removed @185
+02:33:40.229723 table@remove removed @186
+02:33:40.229834 table@remove removed @187
+02:33:40.229940 table@remove removed @188
+02:33:40.230044 table@remove removed @189
+02:33:40.230145 table@remove removed @190
+02:33:40.230245 table@remove removed @191
+02:33:40.230354 table@remove removed @192
+02:33:40.230467 table@remove removed @193
+02:33:40.230736 table@remove removed @194
+02:33:40.230869 table@remove removed @195
+03:31:05.199196 memdb@flush N·28878 S·3MiB
+03:31:05.289854 memdb@flush created L0@242 N·28878 S·3MiB "/F5..I4Q,v648023":"/pr..HYK,v634689"
+03:31:05.289924 version@stat F·[1 37] S·78MiB[3MiB 75MiB] Sc·[0.25 0.75]
+03:31:05.349190 memdb@flush committed F·1 T·149.745ms
+03:31:05.368365 journal@remove removed @202
+04:09:45.293345 memdb@flush N·28732 S·3MiB
+04:09:45.348271 memdb@flush created L0@244 N·28732 S·3MiB "/F5..FRY,v688994":"/pr..5QY,v663967"
+04:09:45.348316 version@stat F·[2 37] S·82MiB[6MiB 75MiB] Sc·[0.50 0.75]
+04:09:45.367555 memdb@flush committed F·1 T·74.029625ms
+04:09:45.368494 journal@remove removed @241
+05:09:46.674854 table@compaction L0·2 -> L1·37 S·82MiB Q·712077
+05:09:46.719900 table@build created L1@245 N·17593 S·2MiB "/F5..WKI,v629516":"/pr..HYK,v348085"
+05:09:46.751497 table@build created L1@246 N·16069 S·2MiB "/pr..75O,v126987":"/pr..K6Q,v74565"
+05:09:46.783364 table@build created L1@247 N·16052 S·2MiB "/pr..5QY,v674450":"/pr..5QY,v667070"
+05:09:46.862912 table@build created L1@248 N·16306 S·2MiB "/pr..V66,v286766":"/pr..75O,v267875"
+05:09:46.888997 table@build created L1@249 N·16080 S·2MiB "/pr..5QY,v664286":"/pr..HYK,v639673"
+05:09:46.926285 table@build created L1@250 N·16040 S·2MiB "/pr..2WM,v90150":"/pr..75O,v185175"
+05:09:46.980437 table@build created L1@251 N·16049 S·2MiB "/pr..QR2,v313758":"/pr..K6Q,v376413"
+05:09:47.034327 table@build created L1@252 N·16085 S·2MiB "/pr..B4G,v21009":"/pr..5QY,v548536"
+05:09:47.086287 table@build created L1@253 N·16092 S·2MiB "/pr..75O,v224906":"/pr..75O,v166092"
+05:09:47.131553 table@build created L1@254 N·16066 S·2MiB "/pr..75O,v204591":"/pr..WKS,v483555"
+05:09:47.191274 table@build created L1@255 N·16150 S·2MiB "/pr..K6Q,v493357":"/pr..5QY,v660867"
+05:09:47.241139 table@build created L1@256 N·16091 S·2MiB "/pr..HYK,v649974":"/pr..MTA,v448408"
+05:09:47.272752 table@build created L1@257 N·16082 S·2MiB "/pr..2WM,v98969":"/pr..2WM,v89624"
+05:09:47.351754 table@build created L1@258 N·16062 S·2MiB "/pr..75O,v157930":"/pr..MTA,v429370"
+05:09:47.384684 table@build created L1@259 N·16059 S·2MiB "/pr..2WM,v92547":"/pr..K6Q,v359007"
+05:09:47.421841 table@build created L1@260 N·16077 S·2MiB "/pr..HYK,v344068":"/pr..K6Q,v26022"
+05:09:47.462287 table@build created L1@261 N·16074 S·2MiB "/pr..XKO,v383446":"/pr..YQM,v541784"
+05:09:47.531822 table@build created L1@262 N·16071 S·2MiB "/pr..T2S,v675209":"/pr..MTA,v443414"
+05:09:47.570299 table@build created L1@263 N·16069 S·2MiB "/pr..75O,v630021":"/pr..75O,v139438"
+05:09:47.610775 table@build created L1@264 N·16075 S·2MiB "/pr..2WM,v96625":"/pr..MTA,v400086"
+05:09:47.641063 table@build created L1@265 N·16091 S·2MiB "/pr..75O,v170180":"/pr..WHQ,v16946"
+05:09:47.708564 table@build created L1@266 N·16078 S·2MiB "/pr..75O,v231716":"/pr..75O,v630319"
+05:09:47.744918 table@build created L1@267 N·16083 S·2MiB "/pr..75O,v628632":"/pr..MTA,v399743"
+05:09:47.776617 table@build created L1@268 N·16085 S·2MiB "/pr..75O,v238590":"/pr..75O,v226146"
+05:09:47.816599 table@build created L1@269 N·16169 S·2MiB "/pr..75O,v262404":"/pr..HYK,v349917"
+05:09:47.847467 table@build created L1@270 N·16110 S·2MiB "/pr..75O,v253493":"/pr..MTA,v459774"
+05:09:47.877553 table@build created L1@271 N·16109 S·2MiB "/pr..K6Q,v648511":"/pr..KMW,v329781"
+05:09:47.918054 table@build created L1@272 N·16092 S·2MiB "/pr..K6Q,v66813":"/pr..UQU,v593264"
+05:09:47.956852 table@build created L1@273 N·16060 S·2MiB "/pr..KMW,v292405":"/pr..75O,v136747"
+05:09:47.987716 table@build created L1@274 N·16097 S·2MiB "/pr..5QY,v384085":"/pr..MTA,v417192"
+05:09:48.025580 table@build created L1@275 N·16065 S·2MiB "/pr..MTA,v458449":"/pr..5QY,v667006"
+05:09:48.064492 table@build created L1@276 N·16066 S·2MiB "/pr..K6Q,v30528":"/pr..MTA,v427329"
+05:09:48.111793 table@build created L1@277 N·16093 S·2MiB "/pr..HYK,v638261":"/pr..75O,v256622"
+05:09:48.149801 table@build created L1@278 N·16070 S·2MiB "/pr..75O,v116696":"/pr..K6Q,v495408"
+05:09:48.222886 table@build created L1@279 N·16059 S·2MiB "/pr..HYK,v549418":"/pr..HYK,v345736"
+05:09:48.260657 table@build created L1@280 N·16051 S·2MiB "/pr..K6Q,v498880":"/pr..HYK,v335495"
+05:09:48.299641 table@build created L1@281 N·16038 S·2MiB "/pr..B5Q,v487103":"/pr..B5Q,v486601"
+05:09:48.343605 table@build created L1@282 N·16045 S·2MiB "/pr..HYK,v346287":"/pr..75O,v251794"
+05:09:48.377561 table@build created L1@283 N·16073 S·2MiB "/pr..B4G,v288570":"/pr..KMW,v470791"
+05:09:48.427826 table@build created L1@284 N·11172 S·1MiB "/pr..5QY,v673276":"/pr..RLY,v530541"
+05:09:48.427929 version@stat F·[0 40] S·81MiB[0B 81MiB] Sc·[0.00 0.81]
+05:09:48.462222 table@compaction committed F+1 S-1MiB Ke·0 D·11506 T·1.787259958s
+05:09:48.462864 table@remove removed @244
+05:09:48.463338 table@remove removed @242
+05:09:48.463608 table@remove removed @204
+05:09:48.463864 table@remove removed @205
+05:09:48.464072 table@remove removed @206
+05:09:48.464265 table@remove removed @207
+05:09:48.464436 table@remove removed @208
+05:09:48.464622 table@remove removed @209
+05:09:48.464818 table@remove removed @210
+05:09:48.465004 table@remove removed @211
+05:09:48.465270 table@remove removed @212
+05:09:48.465477 table@remove removed @213
+05:09:48.465680 table@remove removed @214
+05:09:48.465889 table@remove removed @215
+05:09:48.466082 table@remove removed @216
+05:09:48.466272 table@remove removed @217
+05:09:48.466468 table@remove removed @218
+05:09:48.466828 table@remove removed @219
+05:09:48.467038 table@remove removed @220
+05:09:48.467237 table@remove removed @221
+05:09:48.467427 table@remove removed @222
+05:09:48.467625 table@remove removed @223
+05:09:48.467822 table@remove removed @224
+05:09:48.468010 table@remove removed @225
+05:09:48.468211 table@remove removed @226
+05:09:48.468435 table@remove removed @227
+05:09:48.468609 table@remove removed @228
+05:09:48.468796 table@remove removed @229
+05:09:48.468999 table@remove removed @230
+05:09:48.469228 table@remove removed @231
+05:09:48.469441 table@remove removed @232
+05:09:48.469638 table@remove removed @233
+05:09:48.470000 table@remove removed @234
+05:09:48.470206 table@remove removed @235
+05:09:48.470390 table@remove removed @236
+05:09:48.470565 table@remove removed @237
+05:09:48.470732 table@remove removed @238
+05:09:48.470902 table@remove removed @239
+05:09:48.471091 table@remove removed @240
+05:43:11.610986 memdb@flush N·29526 S·3MiB
+05:43:11.698821 memdb@flush created L0@286 N·29526 S·2MiB "/F5..WWI,v707036":"/pr..75O,v718170"
+05:43:11.698908 version@stat F·[1 40] S·83MiB[2MiB 81MiB] Sc·[0.25 0.81]
+05:43:11.741157 memdb@flush committed F·1 T·129.931625ms
+05:43:11.762150 journal@remove removed @243
+06:09:49.672382 memdb@flush N·30389 S·3MiB
+06:09:49.852213 memdb@flush created L0@288 N·30389 S·2MiB "/F5..D42,v721736":"/pr..UQU,v722254"
+06:09:49.852272 version@stat F·[2 40] S·86MiB[5MiB 81MiB] Sc·[0.50 0.81]
+06:09:49.902490 memdb@flush committed F·1 T·229.818875ms
+06:09:49.905302 journal@remove removed @285
+06:40:45.158479 memdb@flush N·29968 S·3MiB
+06:40:45.245921 memdb@flush created L0@290 N·29968 S·2MiB "/F5..YHQ,v771756":"/pr..K6Q,d771651"
+06:40:45.246019 version@stat F·[3 40] S·89MiB[7MiB 81MiB] Sc·[0.75 0.81]
+06:40:45.265677 memdb@flush committed F·1 T·106.862625ms
+06:40:45.267073 journal@remove removed @287
+07:09:52.674632 table@compaction L0·3 -> L1·40 S·89MiB Q·789014
+07:09:52.731714 table@build created L1@291 N·17617 S·2MiB "/F5..WKI,v629516":"/pr..GA2,v680025"
+07:09:52.812973 table@build created L1@292 N·16105 S·2MiB "/pr..75O,v134085":"/pr..75O,v252357"
+07:09:52.882439 table@build created L1@293 N·16101 S·2MiB "/pr..MTA,v435456":"/pr..HY4,v479419"
+07:09:52.914251 table@build created L1@294 N·16409 S·2MiB "/pr..75O,v257139":"/pr..HYK,v333615"
+07:09:52.940619 table@build created L1@295 N·16104 S·2MiB "/pr..75O,v115318":"/pr..K6Q,v75365"
+07:09:52.974598 table@build created L1@296 N·16067 S·2MiB "/pr..ASS,v676585":"/pr..UQU,v593650"
+07:09:53.007938 table@build created L1@297 N·16073 S·2MiB "/pr..75O,v155696":"/pr..UQU,v578466"
+07:09:53.041814 table@build created L1@298 N·16103 S·2MiB "/pr..HYK,v547284":"/pr..MTA,v401646"
+07:09:53.074690 table@build created L1@299 N·16089 S·2MiB "/pr..K6Q,v68129":"/pr..K6Q,v356495"
+07:09:53.121157 table@build created L1@300 N·16085 S·2MiB "/pr..MTA,v430959":"/pr..K6Q,v493357"
+07:09:53.156233 table@build created L1@301 N·16160 S·2MiB "/pr..QR2,v303496":"/pr..5QY,v667160"
+07:09:53.188815 table@build created L1@302 N·16114 S·2MiB "/pr..MTA,v437660":"/pr..MTA,v417577"
+07:09:53.247488 table@build created L1@303 N·16095 S·2MiB "/pr..2WM,v97196":"/pr..QR2,v316126"
+07:09:53.279128 table@build created L1@304 N·16079 S·2MiB "/pr..3JY,v687580":"/pr..2WM,v101002"
+07:09:53.328778 table@build created L1@305 N·16116 S·2MiB "/pr..75O,v143881":"/pr..WKS,v81509"
+07:09:53.360142 table@build created L1@306 N·16108 S·2MiB "/pr..GA2,v680345":"/pr..75O,v277040"
+07:09:53.400662 table@build created L1@307 N·16109 S·2MiB "/pr..MTA,v456195":"/pr..75O,v168458"
+07:09:53.434033 table@build created L1@308 N·16070 S·2MiB "/pr..75O,v613684":"/pr..5QY,v663780"
+07:09:53.468515 table@build created L1@309 N·16110 S·2MiB "/pr..75O,v219910":"/pr..QKK,v710806"
+07:09:53.501026 table@build created L1@310 N·16077 S·2MiB "/pr..BWA,v290316":"/pr..75O,v255090"
+07:09:53.564830 table@build created L1@311 N·16122 S·2MiB "/pr..75O,v134643":"/pr..75O,v158660"
+07:09:53.603593 table@build created L1@312 N·16090 S·2MiB "/pr..QR2,v311438":"/pr..K6Q,v375185"
+07:09:53.637663 table@build created L1@313 N·16106 S·2MiB "/pr..JDY,v705898":"/pr..75O,v147168"
+07:09:53.670290 table@build created L1@314 N·16098 S·2MiB "/pr..5QY,v673739":"/pr..RLY,v531205"
+07:09:53.704863 table@build created L1@315 N·16157 S·2MiB "/pr..MTA,v393646":"/pr..MTA,v447954"
+07:09:53.731307 table@build created L1@316 N·16094 S·2MiB "/pr..KBI,v718303":"/pr..2WM,v89068"
+07:09:53.764702 table@build created L1@317 N·16131 S·2MiB "/pr..2WM,v98013":"/pr..75O,v234162"
+07:09:53.798415 table@build created L1@318 N·16094 S·2MiB "/pr..75O,v243241":"/pr..75O,v199073"
+07:09:53.840907 table@build created L1@319 N·16094 S·2MiB "/pr..75O,v132471":"/pr..HYK,v603794"
+07:09:53.875624 table@build created L1@320 N·16124 S·2MiB "/pr..K6Q,v60555":"/pr..75O,v122159"
+07:09:53.908892 table@build created L1@321 N·16100 S·2MiB "/pr..5QY,v547966":"/pr..75O,v189380"
+07:09:53.931262 table@build created L1@322 N·16103 S·2MiB "/pr..75O,v180507":"/pr..HYK,v340849"
+07:09:53.964405 table@build created L1@323 N·16098 S·2MiB "/pr..HYK,v385710":"/pr..2WM,v91105"
+07:09:53.995238 table@build created L1@324 N·16084 S·2MiB "/pr..2WM,v89275":"/pr..75O,v250573"
+07:09:54.026339 table@build created L1@325 N·16106 S·2MiB "/pr..UQU,v575533":"/pr..75O,v160400"
+07:09:54.078386 table@build created L1@326 N·16134 S·2MiB "/pr..B5Q,v487146":"/pr..B4G,v296272"
+07:09:54.108296 table@build created L1@327 N·16114 S·2MiB "/pr..75O,v142195":"/pr..K6Q,v64973"
+07:09:54.140897 table@build created L1@328 N·16096 S·2MiB "/pr..RLY,v535169":"/pr..75O,v263832"
+07:09:54.164857 table@build created L1@329 N·16104 S·2MiB "/pr..UQU,v577936":"/pr..PE4,v539137"
+07:09:54.195099 table@build created L1@330 N·10838 S·1MiB "/pr..75O,v267862":"/pr..RLY,v530541"
+07:09:54.195171 version@stat F·[0 40] S·81MiB[0B 81MiB] Sc·[0.00 0.81]
+07:09:54.215392 table@compaction committed F-3 S-7MiB Ke·0 D·89153 T·1.540586167s
+07:09:54.216294 table@remove removed @290
+07:09:54.216444 table@remove removed @288
+07:09:54.216596 table@remove removed @286
+07:09:54.216746 table@remove removed @245
+07:09:54.216856 table@remove removed @246
+07:09:54.216961 table@remove removed @247
+07:09:54.217063 table@remove removed @248
+07:09:54.217165 table@remove removed @249
+07:09:54.217276 table@remove removed @250
+07:09:54.217392 table@remove removed @251
+07:09:54.217502 table@remove removed @252
+07:09:54.217610 table@remove removed @253
+07:09:54.217720 table@remove removed @254
+07:09:54.217828 table@remove removed @255
+07:09:54.217936 table@remove removed @256
+07:09:54.218056 table@remove removed @257
+07:09:54.218314 table@remove removed @258
+07:09:54.218451 table@remove removed @259
+07:09:54.218570 table@remove removed @260
+07:09:54.218673 table@remove removed @261
+07:09:54.218783 table@remove removed @262
+07:09:54.218904 table@remove removed @263
+07:09:54.219029 table@remove removed @264
+07:09:54.219138 table@remove removed @265
+07:09:54.219257 table@remove removed @266
+07:09:54.219356 table@remove removed @267
+07:09:54.219472 table@remove removed @268
+07:09:54.219591 table@remove removed @269
+07:09:54.219708 table@remove removed @270
+07:09:54.219811 table@remove removed @271
+07:09:54.219926 table@remove removed @272
+07:09:54.220037 table@remove removed @273
+07:09:54.220254 table@remove removed @274
+07:09:54.220349 table@remove removed @275
+07:09:54.220461 table@remove removed @276
+07:09:54.220573 table@remove removed @277
+07:09:54.220688 table@remove removed @278
+07:09:54.220788 table@remove removed @279
+07:09:54.220903 table@remove removed @280
+07:09:54.221010 table@remove removed @281
+07:09:54.221119 table@remove removed @282
+07:09:54.221225 table@remove removed @283
+07:09:54.221318 table@remove removed @284
+07:10:49.190299 memdb@flush N·29096 S·3MiB
+07:10:49.256226 memdb@flush created L0@332 N·29096 S·3MiB "/F5..OLA,v783747":"/pr..K6Q,d783758"
+07:10:49.256465 version@stat F·[1 40] S·84MiB[3MiB 81MiB] Sc·[0.25 0.81]
+07:10:49.296495 memdb@flush committed F·1 T·105.92875ms
+07:10:49.297555 journal@remove removed @289
+07:43:56.381285 memdb@flush N·28645 S·3MiB
+07:43:56.522981 memdb@flush created L0@334 N·28645 S·3MiB "/F5..JQY,v820159":"/pr..5QY,v815618"
+07:43:56.523709 version@stat F·[2 40] S·88MiB[6MiB 81MiB] Sc·[0.50 0.81]
+07:43:56.579869 memdb@flush committed F·1 T·197.564958ms
+07:43:56.605586 journal@remove removed @331
+07:44:00.189611 memdb@flush N·28808 S·3MiB
+07:44:00.340549 memdb@flush created L0@336 N·28808 S·3MiB "/pr..QOY,v839511":"/pr..QOY,v839723"
+07:44:00.340732 version@stat F·[3 40] S·91MiB[10MiB 81MiB] Sc·[0.75 0.81]
+07:44:00.396575 memdb@flush committed F·1 T·206.926583ms
+07:44:00.416015 journal@remove removed @333
+07:44:03.688732 memdb@flush N·28790 S·3MiB
+07:44:03.848011 memdb@flush created L0@338 N·28790 S·3MiB "/pr..QOY,v878564":"/pr..QOY,v886810"
+07:44:03.848128 version@stat F·[4 40] S·95MiB[14MiB 81MiB] Sc·[1.00 0.81]
+07:44:03.946258 memdb@flush committed F·1 T·257.432959ms
+07:44:03.982434 journal@remove removed @335
+07:44:03.983032 table@compaction L0·4 -> L1·40 S·95MiB Q·897167
+07:44:04.090788 table@build created L1@339 N·16093 S·2MiB "/F5..WKI,v629516":"/pr..K6Q,v355133"
+07:44:04.199896 table@build created L1@340 N·17828 S·2MiB "/pr..75O,v264462":"/pr..QOY,v855268"
+07:44:04.327412 table@build created L1@341 N·16155 S·2MiB "/pr..75O,v187167":"/pr..3JY,v772361"
+07:44:04.435562 table@build created L1@342 N·16172 S·2MiB "/pr..75O,v185722":"/pr..ASS,v677011"
+07:44:04.558500 table@build created L1@343 N·16528 S·2MiB "/pr..75O,v276922":"/pr..75O,v209924"
+07:44:04.695935 table@build created L1@344 N·16161 S·2MiB "/pr..QOY,v857892":"/pr..3JY,v687544"
+07:44:04.819383 table@build created L1@345 N·16165 S·2MiB "/pr..HYK,v638955":"/pr..EVG,v720776"
+07:44:04.950687 table@build created L1@346 N·16129 S·2MiB "/pr..K6Q,v62918":"/pr..75O,v612980"
+07:44:05.076745 table@build created L1@347 N·16189 S·2MiB "/pr..HYK,v650519":"/pr..QOY,v830322"
+07:44:05.225399 table@build created L1@348 N·16423 S·2MiB "/pr..5QY,v662691":"/pr..75O,v177586"
+07:44:05.358679 table@build created L1@349 N·16433 S·2MiB "/pr..MTA,v396964":"/pr..75O,v773487"
+07:44:05.528465 table@build created L1@350 N·16412 S·2MiB "/pr..K6Q,v362307":"/pr..QOY,v883119"
+07:44:05.656049 table@build created L1@351 N·16509 S·2MiB "/pr..75O,v149040":"/pr..75O,v554747"
+07:44:05.787646 table@build created L1@352 N·16379 S·2MiB "/pr..MTA,v457870":"/pr..75O,v150036"
+07:44:05.912731 table@build created L1@353 N·16421 S·2MiB "/pr..75O,v182683":"/pr..75O,v265571"
+07:44:05.979713 table@build created L1@354 N·16425 S·2MiB "/pr..RLY,v529089":"/pr..K6Q,v489743"
+07:44:06.023397 table@build created L1@355 N·16413 S·2MiB "/pr..75O,v231383":"/pr..75O,v156629"
+07:44:06.059728 table@build created L1@356 N·16441 S·2MiB "/pr..K6Q,v357018":"/pr..5QY,v632917"
+07:44:06.099872 table@build created L1@357 N·16425 S·2MiB "/pr..75O,v139131":"/pr..75O,v124274"
+07:44:06.158782 table@build created L1@358 N·16462 S·2MiB "/pr..MTA,v389488":"/pr..2WM,v86379"
+07:44:06.195553 table@build created L1@359 N·16438 S·2MiB "/pr..MTA,v442036":"/pr..75O,v177845"
+07:44:06.231434 table@build created L1@360 N·16448 S·2MiB "/pr..QOY,v837829":"/pr..QOY,v846559"
+07:44:06.264328 table@build created L1@361 N·16396 S·2MiB "/pr..75O,v113268":"/pr..2WM,v82933"
+07:44:06.298284 table@build created L1@362 N·16411 S·2MiB "/pr..QR2,v324444":"/pr..QOY,v834564"
+07:44:06.331957 table@build created L1@363 N·16450 S·2MiB "/pr..K6Q,v364087":"/pr..75O,v224693"
+07:44:06.371534 table@build created L1@364 N·16454 S·2MiB "/pr..MTA,v459579":"/pr..MTA,v437934"
+07:44:06.405475 table@build created L1@365 N·16436 S·2MiB "/pr..MTA,v392447":"/pr..KMW,v379863"
+07:44:06.438338 table@build created L1@366 N·16395 S·2MiB "/pr..MTA,v442152":"/pr..2WM,v106529"
+07:44:06.478255 table@build created L1@367 N·16505 S·2MiB "/pr..75O,v115383":"/pr..MTA,v445748"
+07:44:06.514074 table@build created L1@368 N·16445 S·2MiB "/pr..5QY,v666491":"/pr..QR2,v320630"
+07:44:06.548184 table@build created L1@369 N·16445 S·2MiB "/pr..XKO,v484478":"/pr..K6Q,v79177"
+07:44:06.589622 table@build created L1@370 N·16457 S·2MiB "/pr..MTA,v389995":"/pr..QR2,v324206"
+07:44:06.622589 table@build created L1@371 N·16453 S·2MiB "/pr..HYK,v345512":"/pr..5QY,v667772"
+07:44:06.656477 table@build created L1@372 N·16432 S·2MiB "/pr..75O,v276253":"/pr..QOY,v881707"
+07:44:06.690343 table@build created L1@373 N·16483 S·2MiB "/pr..QR2,v315475":"/pr..K6Q,v72310"
+07:44:06.740407 table@build created L1@374 N·16426 S·2MiB "/pr..QOY,v879649":"/pr..K6Q,v496874"
+07:44:06.774558 table@build created L1@375 N·16406 S·2MiB "/pr..75O,v134856":"/pr..75O,v180182"
+07:44:06.809341 table@build created L1@376 N·16445 S·2MiB "/pr..75O,v207290":"/pr..QOY,v824948"
+07:44:06.841348 table@build created L1@377 N·16197 S·2MiB "/pr..5QY,v792210":"/pr..K6Q,v374164"
+07:44:06.875909 table@build created L1@378 N·16077 S·2MiB "/pr..K6Q,v499301":"/pr..UQU,v722738"
+07:44:06.927637 table@build created L1@379 N·16103 S·2MiB "/pr..B5Q,v484616":"/pr..75O,v178047"
+07:44:06.961349 table@build created L1@380 N·16079 S·2MiB "/pr..75O,v258288":"/pr..75O,v516446"
+07:44:06.993263 table@build created L1@381 N·16076 S·2MiB "/pr..75O,v222915":"/pr..75O,v130524"
+07:44:07.026878 table@build created L1@382 N·16106 S·2MiB "/pr..5QY,v722957":"/pr..HYK,v604500"
+07:44:07.071410 table@build created L1@383 N·16118 S·2MiB "/pr..K6Q,v370703":"/pr..UQU,v566253"
+07:44:07.098790 table@build created L1@384 N·7715 S·1002KiB "/pr..RLY,v536558":"/pr..RLY,v530541"
+07:44:07.099023 version@stat F·[0 46] S·92MiB[0B 92MiB] Sc·[0.00 0.93]
+07:44:07.127053 table@compaction committed F+2 S-2MiB Ke·0 D·11458 T·3.144069291s
+07:44:07.127314 table@remove removed @338
+07:44:07.127797 table@remove removed @336
+07:44:07.127960 table@remove removed @334
+07:44:07.128101 table@remove removed @332
+07:44:07.128445 table@remove removed @291
+07:44:07.128570 table@remove removed @292
+07:44:07.128694 table@remove removed @293
+07:44:07.128822 table@remove removed @294
+07:44:07.128941 table@remove removed @295
+07:44:07.129062 table@remove removed @296
+07:44:07.129180 table@remove removed @297
+07:44:07.129297 table@remove removed @298
+07:44:07.129404 table@remove removed @299
+07:44:07.129513 table@remove removed @300
+07:44:07.129639 table@remove removed @301
+07:44:07.129738 table@remove removed @302
+07:44:07.129855 table@remove removed @303
+07:44:07.129956 table@remove removed @304
+07:44:07.130060 table@remove removed @305
+07:44:07.130164 table@remove removed @306
+07:44:07.130255 table@remove removed @307
+07:44:07.130356 table@remove removed @308
+07:44:07.130451 table@remove removed @309
+07:44:07.130548 table@remove removed @310
+07:44:07.130658 table@remove removed @311
+07:44:07.130779 table@remove removed @312
+07:44:07.130888 table@remove removed @313
+07:44:07.131001 table@remove removed @314
+07:44:07.131122 table@remove removed @315
+07:44:07.131226 table@remove removed @316
+07:44:07.131337 table@remove removed @317
+07:44:07.131439 table@remove removed @318
+07:44:07.131541 table@remove removed @319
+07:44:07.131638 table@remove removed @320
+07:44:07.131731 table@remove removed @321
+07:44:07.131832 table@remove removed @322
+07:44:07.131953 table@remove removed @323
+07:44:07.132183 table@remove removed @324
+07:44:07.132291 table@remove removed @325
+07:44:07.132397 table@remove removed @326
+07:44:07.132495 table@remove removed @327
+07:44:07.132606 table@remove removed @328
+07:44:07.132716 table@remove removed @329
+07:44:07.132795 table@remove removed @330
+07:54:00.633423 memdb@flush N·28810 S·3MiB
+07:54:00.738333 memdb@flush created L0@386 N·28810 S·3MiB "/F5..KFQ,v911895":"/pr..UQU,v914153"
+07:54:00.738384 version@stat F·[1 46] S·96MiB[3MiB 92MiB] Sc·[0.25 0.93]
+07:54:00.883108 memdb@flush committed F·1 T·249.521126ms
+07:54:00.922282 journal@remove removed @337
+08:14:17.190356 table@compaction L0·1 -> L1·46 S·96MiB Q·950760
+08:14:17.248195 table@build created L1@387 N·16122 S·2MiB "/F5..WKI,v629516":"/pr..75O,v224344"
+08:14:17.295524 table@build created L1@388 N·17855 S·2MiB "/pr..K6Q,v675441":"/pr..75O,v255638"
+08:14:17.345435 table@build created L1@389 N·16170 S·2MiB "/pr..75O,v183787":"/pr..75O,v270377"
+08:14:17.383168 table@build created L1@390 N·16181 S·2MiB "/pr..75O,v228876":"/pr..5QY,v811416"
+08:14:17.420880 table@build created L1@391 N·16551 S·2MiB "/pr..75O,v240287":"/pr..XKO,v384524"
+08:14:17.454777 table@build created L1@392 N·16211 S·2MiB "/pr..QOY,v892776":"/pr..K6Q,v76908"
+08:14:17.511109 table@build created L1@393 N·16161 S·2MiB "/pr..75O,v238751":"/pr..K6Q,v73237"
+08:14:17.548996 table@build created L1@394 N·16174 S·2MiB "/pr..75O,v197262":"/pr..XKO,v481303"
+08:14:17.585909 table@build created L1@395 N·16166 S·2MiB "/pr..2WM,v98088":"/pr..UQU,v577922"
+08:14:17.620822 table@build created L1@396 N·16421 S·2MiB "/pr..2WM,v102002":"/pr..MTA,v455207"
+08:14:17.665002 table@build created L1@397 N·16525 S·2MiB "/pr..75O,v235140":"/pr..RLY,v619019"
+08:14:17.700814 table@build created L1@398 N·16508 S·2MiB "/pr..HYK,v339374":"/pr..75O,v246184"
+08:14:17.757826 table@build created L1@399 N·16587 S·2MiB "/pr..K6Q,v504737":"/pr..KBI,v689226"
+08:14:17.787159 table@build created L1@400 N·16472 S·2MiB "/pr..KMW,v468697":"/pr..75O,v251825"
+08:14:17.823554 table@build created L1@401 N·16500 S·2MiB "/pr..K6Q,v377028":"/pr..75O,v136535"
+08:14:17.859333 table@build created L1@402 N·16522 S·2MiB "/pr..K6Q,v80039":"/pr..QOY,v877844"
+08:14:17.893190 table@build created L1@403 N·16503 S·2MiB "/pr..UQU,v913122":"/pr..QOY,v870060"
+08:14:17.920121 table@build created L1@404 N·16515 S·2MiB "/pr..75O,v195069":"/pr..UQU,v580471"
+08:14:17.955019 table@build created L1@405 N·16548 S·2MiB "/pr..UQU,v593235":"/pr..UQU,v580913"
+08:14:17.987842 table@build created L1@406 N·16530 S·2MiB "/pr..PE4,v523597":"/pr..KMW,v780994"
+08:14:18.019748 table@build created L1@407 N·16544 S·2MiB "/pr..75O,v237864":"/pr..MTA,v436097"
+08:14:18.052423 table@build created L1@408 N·16534 S·2MiB "/pr..75O,v171614":"/pr..UQU,v595537"
+08:14:18.078317 table@build created L1@409 N·16510 S·2MiB "/pr..HYK,v604858":"/pr..QOY,v871756"
+08:14:18.107768 table@build created L1@410 N·16490 S·2MiB "/pr..3JY,v777143":"/pr..UQU,v593810"
+08:14:18.143425 table@build created L1@411 N·16505 S·2MiB "/pr..HY4,v615158":"/pr..5QY,v548325"
+08:14:18.176481 table@build created L1@412 N·16522 S·2MiB "/pr..QOY,v847258":"/pr..75O,v135270"
+08:14:18.209368 table@build created L1@413 N·16532 S·2MiB "/pr..MTA,v451985":"/pr..MTA,v388171"
+08:14:18.246779 table@build created L1@414 N·16529 S·2MiB "/pr..QOY,v854777":"/pr..MTA,v429334"
+08:14:18.280390 table@build created L1@415 N·16492 S·2MiB "/pr..5QY,v815309":"/pr..EKE,v460361"
+08:14:18.313224 table@build created L1@416 N·16641 S·2MiB "/pr..75O,v280021":"/pr..QOY,v894403"
+08:14:18.345964 table@build created L1@417 N·16505 S·2MiB "/pr..75O,v136859":"/pr..2WM,v105119"
+08:14:18.378924 table@build created L1@418 N·16528 S·2MiB "/pr..HY4,v683962":"/pr..HYK,v338318"
+08:14:18.408775 table@build created L1@419 N·16544 S·2MiB "/pr..QR2,v320997":"/pr..75O,v224064"
+08:14:18.441754 table@build created L1@420 N·16550 S·2MiB "/pr..75O,v152469":"/pr..QOY,v828586"
+08:14:18.474454 table@build created L1@421 N·16517 S·2MiB "/pr..2WM,v96362":"/pr..3JY,v680810"
+08:14:18.508521 table@build created L1@422 N·16560 S·2MiB "/pr..5QY,v663273":"/pr..XKO,v301290"
+08:14:18.543344 table@build created L1@423 N·16512 S·2MiB "/pr..GA2,v474317":"/pr..75O,v154841"
+08:14:18.576228 table@build created L1@424 N·16514 S·2MiB "/pr..MTA,v454299":"/pr..2WM,v105702"
+08:14:18.625089 table@build created L1@425 N·16510 S·2MiB "/pr..MTA,v440611":"/pr..2WM,v88976"
+08:14:18.658915 table@build created L1@426 N·16400 S·2MiB "/pr..75O,v161654":"/pr..B4G,v297705"
+08:14:18.689768 table@build created L1@427 N·16126 S·2MiB "/pr..75O,v157710":"/pr..5QY,v671018"
+08:14:18.723420 table@build created L1@428 N·16134 S·2MiB "/pr..HYK,v348970":"/pr..75O,v130977"
+08:14:18.762144 table@build created L1@429 N·16130 S·2MiB "/pr..75O,v174211":"/pr..RLY,v533289"
+08:14:18.807813 table@build created L1@430 N·16134 S·2MiB "/pr..K6Q,v513024":"/pr..K6Q,v72783"
+08:14:18.841154 table@build created L1@431 N·16147 S·2MiB "/pr..KMW,v709923":"/pr..B4G,v528101"
+08:14:18.878722 table@build created L1@432 N·16159 S·2MiB "/pr..75O,v773631":"/pr..K6Q,v355017"
+08:14:18.923400 table@build created L1@433 N·16108 S·2MiB "/pr..75O,v192097":"/pr..5QY,v711125"
+08:14:18.942969 table@build created L1@434 N·437 S·56KiB "/pr..75O,v169943":"/pr..RLY,v530541"
+08:14:18.943481 version@stat F·[0 48] S·96MiB[0B 96MiB] Sc·[0.00 0.96]
+08:14:18.997520 table@compaction committed F+1 S-544KiB Ke·0 D·333 T·1.806686376s
+08:14:18.998428 table@remove removed @386
+08:14:18.998794 table@remove removed @339
+08:14:18.998935 table@remove removed @340
+08:14:18.999102 table@remove removed @341
+08:14:18.999255 table@remove removed @342
+08:14:18.999414 table@remove removed @343
+08:14:18.999560 table@remove removed @344
+08:14:18.999715 table@remove removed @345
+08:14:18.999886 table@remove removed @346
+08:14:19.000041 table@remove removed @347
+08:14:19.000191 table@remove removed @348
+08:14:19.000349 table@remove removed @349
+08:14:19.000497 table@remove removed @350
+08:14:19.000711 table@remove removed @351
+08:14:19.000868 table@remove removed @352
+08:14:19.001024 table@remove removed @353
+08:14:19.001173 table@remove removed @354
+08:14:19.001319 table@remove removed @355
+08:14:19.001442 table@remove removed @356
+08:14:19.001598 table@remove removed @357
+08:14:19.001747 table@remove removed @358
+08:14:19.001899 table@remove removed @359
+08:14:19.002078 table@remove removed @360
+08:14:19.002214 table@remove removed @361
+08:14:19.002347 table@remove removed @362
+08:14:19.002468 table@remove removed @363
+08:14:19.002588 table@remove removed @364
+08:14:19.002712 table@remove removed @365
+08:14:19.002834 table@remove removed @366
+08:14:19.002965 table@remove removed @367
+08:14:19.003092 table@remove removed @368
+08:14:19.003245 table@remove removed @369
+08:14:19.003528 table@remove removed @370
+08:14:19.003735 table@remove removed @371
+08:14:19.003876 table@remove removed @372
+08:14:19.004015 table@remove removed @373
+08:14:19.004152 table@remove removed @374
+08:14:19.004284 table@remove removed @375
+08:14:19.004416 table@remove removed @376
+08:14:19.004558 table@remove removed @377
+08:14:19.004824 table@remove removed @378
+08:14:19.004946 table@remove removed @379
+08:14:19.005059 table@remove removed @380
+08:14:19.005145 table@remove removed @381
+08:14:19.005215 table@remove removed @382
+08:14:19.005289 table@remove removed @383
+08:14:19.005352 table@remove removed @384
+08:31:07.751948 memdb@flush N·28918 S·3MiB
+08:31:07.825874 memdb@flush created L0@436 N·28918 S·3MiB "/F5..LHQ,v947145":"/pr..HY4,v928142"
+08:31:07.825965 version@stat F·[1 48] S·99MiB[3MiB 96MiB] Sc·[0.25 0.96]
+08:31:07.889516 memdb@flush committed F·1 T·137.2955ms
+08:31:07.890897 journal@remove removed @385
+08:57:05.460400 memdb@flush N·28755 S·3MiB
+08:57:05.526072 memdb@flush created L0@438 N·28755 S·3MiB "/F5..ALY,v957398":"/pr..UQU,v968907"
+08:57:05.526155 version@stat F·[2 48] S·103MiB[7MiB 96MiB] Sc·[0.50 0.96]
+08:57:05.714325 memdb@flush committed F·1 T·253.655458ms
+08:57:05.715863 journal@remove removed @435
+09:09:55.811620 table@compaction L0·2 -> L1·48 S·103MiB Q·994227
+09:09:55.839565 table@build created L1@439 N·16123 S·2MiB "/F5..WKI,v629516":"/pr..75O,v238597"
+09:09:55.869660 table@build created L1@440 N·17910 S·2MiB "/pr..NJG,v648526":"/pr..QOY,v933099"
+09:09:55.901362 table@build created L1@441 N·16201 S·2MiB "/pr..K6Q,v379032":"/pr..B4G,v296524"
+09:09:55.934326 table@build created L1@442 N·16211 S·2MiB "/pr..K6Q,v62876":"/pr..QOY,v886971"
+09:09:55.967051 table@build created L1@443 N·16603 S·2MiB "/pr..KMW,v293299":"/pr..HYK,v606363"
+09:09:55.999944 table@build created L1@444 N·16184 S·2MiB "/pr..UQU,v600456":"/pr..75O,v129777"
+09:09:56.023816 table@build created L1@445 N·16212 S·2MiB "/pr..UQU,v593759":"/pr..HYK,v342142"
+09:09:56.059335 table@build created L1@446 N·16210 S·2MiB "/pr..XKO,v480268":"/pr..QOY,v846967"
+09:09:56.091119 table@build created L1@447 N·16199 S·2MiB "/pr..2WM,v105431":"/pr..2WM,v104580"
+09:09:56.123925 table@build created L1@448 N·16254 S·2MiB "/pr..QOY,v848051":"/pr..QOY,v858996"
+09:09:56.157064 table@build created L1@449 N·16530 S·2MiB "/pr..MTA,v392899":"/pr..2WM,v96250"
+09:09:56.200246 table@build created L1@450 N·16532 S·2MiB "/pr..75O,v207765":"/pr..PE4,v688007"
+09:09:56.234305 table@build created L1@451 N·16475 S·2MiB "/pr..HY4,v82209":"/pr..5QY,v673757"
+09:09:56.267938 table@build created L1@452 N·16588 S·2MiB "/pr..UQU,v574679":"/pr..MTA,v428260"
+09:09:56.295928 table@build created L1@453 N·16457 S·2MiB "/pr..75O,v134800":"/pr..K6Q,v61692"
+09:09:56.327681 table@build created L1@454 N·16492 S·2MiB "/pr..QOY,v850674":"/pr..UQU,v581422"
+09:09:56.361928 table@build created L1@455 N·16516 S·2MiB "/pr..B4G,v288530":"/pr..HYK,v545683"
+09:09:56.394679 table@build created L1@456 N·16490 S·2MiB "/pr..HMC,v379729":"/pr..75O,v273882"
+09:09:56.427656 table@build created L1@457 N·16518 S·2MiB "/pr..ZZQ,v953462":"/pr..QR2,v310216"
+09:09:56.457552 table@build created L1@458 N·16527 S·2MiB "/pr..HY4,v924790":"/pr..MTA,v410492"
+09:09:56.490227 table@build created L1@459 N·16518 S·2MiB "/pr..QOY,v883920":"/pr..GA2,v677562"
+09:09:56.525413 table@build created L1@460 N·16535 S·2MiB "/pr..MTA,v391232":"/pr..MTA,v414426"
+09:09:56.559041 table@build created L1@461 N·16533 S·2MiB "/pr..QOY,v889556":"/pr..XKO,v543650"
+09:09:56.591864 table@build created L1@462 N·16503 S·2MiB "/pr..7O4,v331050":"/pr..RLY,v536295"
+09:09:56.626008 table@build created L1@463 N·16480 S·2MiB "/pr..K6Q,v371449":"/pr..UQU,v565007"
+09:09:56.660629 table@build created L1@464 N·16481 S·2MiB "/pr..75O,v252818":"/pr..GA2,v679614"
+09:09:56.687537 table@build created L1@465 N·16489 S·2MiB "/pr..K6Q,v375022":"/pr..UQU,v578503"
+09:09:56.719775 table@build created L1@466 N·16511 S·2MiB "/pr..75O,v143268":"/pr..75O,v816241"
+09:09:56.753579 table@build created L1@467 N·16496 S·2MiB "/pr..QOY,v868104":"/pr..HYK,v344843"
+09:09:56.784675 table@build created L1@468 N·16520 S·2MiB "/pr..QR2,v322695":"/pr..K6Q,v358200"
+09:09:56.815900 table@build created L1@469 N·16612 S·2MiB "/pr..75O,v272980":"/pr..QR2,v305749"
+09:09:56.849157 table@build created L1@470 N·16506 S·2MiB "/pr..75O,v214578":"/pr..QOY,v858776"
+09:09:56.882938 table@build created L1@471 N·16522 S·2MiB "/pr..2WM,v87948":"/pr..HYK,v603703"
+09:09:56.916775 table@build created L1@472 N·16549 S·2MiB "/pr..75O,v265005":"/pr..75O,v520117"
+09:09:56.952593 table@build created L1@473 N·16523 S·2MiB "/pr..75O,v276201":"/pr..K6Q,v75535"
+09:09:56.985518 table@build created L1@474 N·16540 S·2MiB "/pr..75O,v189204":"/pr..MTA,v427202"
+09:09:57.012507 table@build created L1@475 N·16502 S·2MiB "/pr..QOY,v910288":"/pr..5QY,v795843"
+09:09:57.049382 table@build created L1@476 N·16534 S·2MiB "/pr..2WM,v92938":"/pr..MTA,v406697"
+09:09:57.084325 table@build created L1@477 N·16513 S·2MiB "/pr..7O4,v509617":"/pr..K6Q,v73540"
+09:09:57.119048 table@build created L1@478 N·16511 S·2MiB "/pr..XKO,v488729":"/pr..B4G,v295873"
+09:09:57.152900 table@build created L1@479 N·16507 S·2MiB "/pr..QOY,v831983":"/pr..75O,v174117"
+09:09:57.189747 table@build created L1@480 N·16519 S·2MiB "/pr..75O,v273582":"/pr..2WM,v82697"
+09:09:57.225773 table@build created L1@481 N·16153 S·2MiB "/pr..2WM,v104121":"/pr..UQU,v571633"
+09:09:57.259594 table@build created L1@482 N·16194 S·2MiB "/pr..75O,v258691":"/pr..75O,v193204"
+09:09:57.310546 table@build created L1@483 N·16185 S·2MiB "/pr..75O,v194840":"/pr..UQU,v600793"
+09:09:57.344610 table@build created L1@484 N·16188 S·2MiB "/pr..B5Q,v484721":"/pr..K6Q,v509178"
+09:09:57.375703 table@build created L1@485 N·16175 S·2MiB "/pr..5QY,v801060":"/pr..K6Q,v78347"
+09:09:57.409270 table@build created L1@486 N·16191 S·2MiB "/pr..75O,v225687":"/pr..75O,v611987"
+09:09:57.443334 table@build created L1@487 N·16179 S·2MiB "/pr..75O,v149340":"/pr..HY4,v927945"
+09:09:57.476045 table@build created L1@488 N·16161 S·2MiB "/pr..K6Q,v362956":"/pr..B5Q,v485968"
+09:09:57.497431 table@build created L1@489 N·858 S·111KiB "/pr..75O,v227512":"/pr..RLY,v530541"
+09:09:57.497671 version@stat F·[0 51] S·102MiB[0B 102MiB] Sc·[0.00 1.02]
+09:09:57.525254 table@compaction committed F+1 S-901KiB Ke·0 D·7789 T·1.713351459s
+09:09:57.526040 table@remove removed @438
+09:09:57.526232 table@remove removed @436
+09:09:57.526658 table@remove removed @387
+09:09:57.526780 table@remove removed @388
+09:09:57.526889 table@remove removed @389
+09:09:57.527055 table@remove removed @390
+09:09:57.527189 table@remove removed @391
+09:09:57.527341 table@remove removed @392
+09:09:57.527521 table@remove removed @393
+09:09:57.527703 table@remove removed @394
+09:09:57.527866 table@remove removed @395
+09:09:57.528015 table@remove removed @396
+09:09:57.528155 table@remove removed @397
+09:09:57.528304 table@remove removed @398
+09:09:57.528464 table@remove removed @399
+09:09:57.528627 table@remove removed @400
+09:09:57.528780 table@remove removed @401
+09:09:57.528923 table@remove removed @402
+09:09:57.529076 table@remove removed @403
+09:09:57.529231 table@remove removed @404
+09:09:57.529366 table@remove removed @405
+09:09:57.529502 table@remove removed @406
+09:09:57.529633 table@remove removed @407
+09:09:57.529773 table@remove removed @408
+09:09:57.530288 table@remove removed @409
+09:09:57.530453 table@remove removed @410
+09:09:57.530605 table@remove removed @411
+09:09:57.530734 table@remove removed @412
+09:09:57.530868 table@remove removed @413
+09:09:57.531000 table@remove removed @414
+09:09:57.531139 table@remove removed @415
+09:09:57.531265 table@remove removed @416
+09:09:57.531384 table@remove removed @417
+09:09:57.531514 table@remove removed @418
+09:09:57.531636 table@remove removed @419
+09:09:57.531759 table@remove removed @420
+09:09:57.531883 table@remove removed @421
+09:09:57.531997 table@remove removed @422
+09:09:57.532119 table@remove removed @423
+09:09:57.532231 table@remove removed @424
+09:09:57.532360 table@remove removed @425
+09:09:57.532484 table@remove removed @426
+09:09:57.532611 table@remove removed @427
+09:09:57.532901 table@remove removed @428
+09:09:57.533041 table@remove removed @429
+09:09:57.533167 table@remove removed @430
+09:09:57.533296 table@remove removed @431
+09:09:57.533426 table@remove removed @432
+09:09:57.533548 table@remove removed @433
+09:09:57.533614 table@remove removed @434
+09:09:57.533630 table@move L1@439 -> L2
+09:09:57.533656 version@stat F·[0 50 1] S·102MiB[0B 100MiB 2MiB] Sc·[0.00 1.00 0.00]
+09:09:57.553661 table@move L1@440 -> L2
+09:09:57.553692 version@stat F·[0 49 2] S·102MiB[0B 98MiB 4MiB] Sc·[0.00 0.98 0.00]
+09:30:17.717790 memdb@flush N·28820 S·3MiB
+09:30:17.791826 memdb@flush created L0@491 N·28820 S·3MiB "/F5..PPI,v995719":"/pr..5QY,v1010406"
+09:30:17.791950 version@stat F·[1 49 2] S·105MiB[3MiB 98MiB 4MiB] Sc·[0.25 0.98 0.00]
+09:30:17.820930 memdb@flush committed F·1 T·102.838ms
+09:30:17.832234 journal@remove removed @437
+10:09:56.209645 memdb@flush N·28884 S·3MiB
+10:09:56.427113 memdb@flush created L0@493 N·28884 S·3MiB "/F5..FDI,v1020745":"/pr..75O,v1017845"
+10:09:56.427168 version@stat F·[2 49 2] S·109MiB[6MiB 98MiB 4MiB] Sc·[0.50 0.98 0.00]
+10:09:56.485546 memdb@flush committed F·1 T·275.740791ms
+10:09:56.486239 journal@remove removed @490
+10:09:58.581071 memdb@flush N·30596 S·3MiB
+10:09:58.625841 memdb@flush created L0@495 N·30596 S·2MiB "/pr..K6Q,d1039676":"/pr..HY4,v1051771"
+10:09:58.625927 version@stat F·[3 49 2] S·111MiB[9MiB 98MiB 4MiB] Sc·[0.75 0.98 0.00]
+10:09:58.683297 memdb@flush committed F·1 T·102.178958ms
+10:09:58.684387 journal@remove removed @492
+10:10:00.932233 memdb@flush N·30840 S·3MiB
+10:10:01.540122 memdb@flush created L0@497 N·30840 S·2MiB "/pr..2WM,d1070211":"/pr..5QY,v1096649"
+10:10:01.541069 version@stat F·[4 49 2] S·113MiB[11MiB 98MiB 4MiB] Sc·[1.00 0.98 0.00]
+10:10:01.600517 memdb@flush committed F·1 T·668.24425ms
+10:10:01.600972 journal@remove removed @494
+10:10:01.601066 table@compaction L0·4 -> L1·49 S·109MiB Q·1109215
+10:10:02.025791 table@build created L1@498 N·16414 S·2MiB "/F5..FDI,v1020745":"/pr..QR2,v304536"
+10:10:02.630753 table@build created L1@499 N·16175 S·2MiB "/pr..QOY,v858043":"/pr..KMW,v282222"
+10:10:03.068314 table@build created L1@500 N·16718 S·2MiB "/pr..QR2,v313666":"/pr..OXO,v983942"
+10:10:03.410928 memdb@flush N·30584 S·3MiB
+10:10:03.767812 table@build created L1@501 N·16175 S·2MiB "/pr..HY4,v560617":"/pr..QOY,v839988"
+10:10:04.341364 memdb@flush created L0@503 N·30584 S·2MiB "/pr..DXQ,v1119877":"/pr..5QY,v1106074"
+10:10:04.341437 version@stat F·[5 49 2] S·116MiB[13MiB 98MiB 4MiB] Sc·[1.25 0.98 0.00]
+10:10:04.398801 memdb@flush committed F·1 T·627.486792ms
+10:10:04.399760 journal@remove removed @496
+10:10:04.455648 table@build created L1@504 N·16214 S·2MiB "/pr..ASS,v782137":"/pr..75O,v201822"
+10:10:04.494338 table@build created L1@505 N·16183 S·2MiB "/pr..QOY,v934896":"/pr..HYK,v1028829"
+10:10:04.532572 table@build created L1@506 N·16178 S·2MiB "/pr..75O,v151327":"/pr..5QY,v625961"
+10:10:04.571278 table@build created L1@507 N·16209 S·2MiB "/pr..YXA,v332799":"/pr..MTA,v427144"
+10:10:04.607097 table@build created L1@508 N·16537 S·2MiB "/pr..QOY,v910373":"/pr..UQU,v915561"
+10:10:04.641057 table@build created L1@509 N·16544 S·2MiB "/pr..5QY,v668422":"/pr..QR2,v311930"
+10:10:04.698839 table@build created L1@510 N·16488 S·2MiB "/pr..75O,v544247":"/pr..5QY,v810221"
+10:10:04.754809 table@build created L1@511 N·16578 S·2MiB "/pr..K6Q,v503796":"/pr..MTA,v430089"
+10:10:04.792416 table@build created L1@512 N·16454 S·2MiB "/pr..RLY,v530540":"/pr..MTA,v438980"
+10:10:04.851300 table@build created L1@513 N·16520 S·2MiB "/pr..UQU,v586863":"/pr..UQU,v915548"
+10:10:04.890446 table@build created L1@514 N·16511 S·2MiB "/pr..75O,v246824":"/pr..MTA,v396165"
+10:10:04.927261 table@build created L1@515 N·16488 S·2MiB "/pr..QOY,v865775":"/pr..QOY,v904067"
+10:10:04.962139 table@build created L1@516 N·16539 S·2MiB "/pr..QOY,v899188":"/pr..75O,v235201"
+10:10:04.995985 table@build created L1@517 N·16531 S·2MiB "/pr..B4G,v991340":"/pr..QR2,v320146"
+10:10:05.028787 table@build created L1@518 N·16533 S·2MiB "/pr..QR2,v321518":"/pr..HYK,v641133"
+10:10:05.059620 table@build created L1@519 N·16565 S·2MiB "/pr..HY4,v686787":"/pr..MTA,v424640"
+10:10:05.109832 table@build created L1@520 N·16523 S·2MiB "/pr..QOY,v904979":"/pr..75O,v176166"
+10:10:05.141615 table@build created L1@521 N·16506 S·2MiB "/pr..KMW,v327796":"/pr..MTA,v429902"
+10:10:05.175351 table@build created L1@522 N·16500 S·2MiB "/pr..QOY,v845857":"/pr..75O,v169367"
+10:10:05.210410 table@build created L1@523 N·16479 S·2MiB "/pr..MTA,v434818":"/pr..MTA,v438310"
+10:10:05.249792 table@build created L1@524 N·16500 S·2MiB "/pr..MTA,v393511":"/pr..QOY,v845643"
+10:10:05.283742 table@build created L1@525 N·16520 S·2MiB "/pr..75O,v183362":"/pr..UQU,v587594"
+10:10:05.317672 table@build created L1@526 N·16523 S·2MiB "/pr..5QY,v809792":"/pr..75O,v239810"
+10:10:05.350280 table@build created L1@527 N·16524 S·2MiB "/pr..75O,v215456":"/pr..75O,v250899"
+10:10:05.384374 table@build created L1@528 N·16592 S·2MiB "/pr..K6Q,v503716":"/pr..75O,v154885"
+10:10:05.438314 table@build created L1@529 N·16489 S·2MiB "/pr..QR2,v302262":"/pr..QOY,v864114"
+10:10:05.469703 table@build created L1@530 N·16514 S·2MiB "/pr..MTA,v426489":"/pr..MTA,v420350"
+10:10:05.525912 table@build created L1@531 N·16530 S·2MiB "/pr..UQU,v585651":"/pr..K6Q,v59822"
+10:10:05.560712 table@build created L1@532 N·16507 S·2MiB "/pr..UQU,v970921":"/pr..5QY,v671832"
+10:10:05.594716 table@build created L1@533 N·16553 S·2MiB "/pr..75O,v114364":"/pr..MTA,v426532"
+10:10:05.626618 table@build created L1@534 N·16499 S·2MiB "/pr..QOY,v909843":"/pr..MTA,v460109"
+10:10:05.660253 table@build created L1@535 N·16545 S·2MiB "/pr..K6Q,v373038":"/pr..MTA,v448070"
+10:10:05.698407 table@build created L1@536 N·16502 S·2MiB "/pr..QOY,v825764":"/pr..MTA,v429923"
+10:10:05.733237 table@build created L1@537 N·16511 S·2MiB "/pr..MTA,v411351":"/pr..QOY,v894205"
+10:10:05.761150 table@build created L1@538 N·16462 S·2MiB "/pr..HYK,v347256":"/pr..HYK,v350552"
+10:10:05.795091 table@build created L1@539 N·16504 S·2MiB "/pr..75O,v610556":"/pr..75O,v227521"
+10:10:05.828773 table@build created L1@540 N·16296 S·2MiB "/pr..RXE,v629901":"/pr..K6Q,v68323"
+10:10:05.860629 table@build created L1@541 N·16186 S·2MiB "/pr..75O,v249415":"/pr..HY4,v701614"
+10:10:05.894275 table@build created L1@542 N·16170 S·2MiB "/pr..OXO,v1020740":"/pr..K6Q,v54420"
+10:10:05.930409 table@build created L1@543 N·16193 S·2MiB "/pr..K6Q,v63041":"/pr..75O,v229939"
+10:10:05.984430 table@build created L1@544 N·16176 S·2MiB "/pr..HYK,v349711":"/pr..75O,v127302"
+10:10:06.019192 table@build created L1@545 N·16153 S·2MiB "/pr..B5Q,v485177":"/pr..K6Q,v60235"
+10:10:06.054010 table@build created L1@546 N·16189 S·2MiB "/pr..OXO,v1019940":"/pr..UQU,v916521"
+10:10:06.089918 table@build created L1@547 N·16188 S·2MiB "/pr..RLY,v533114":"/pr..5QY,v1011555"
+10:10:06.117921 table@build created L1@548 N·16148 S·2MiB "/pr..OXO,v997862":"/pr..75O,v544335"
+10:10:06.142007 table@build created L1@549 N·3705 S·480KiB "/pr..5QY,v810347":"/pr..RLY,v530541"
+10:10:06.152622 version@stat F·[1 50 2] S·107MiB[2MiB 100MiB 4MiB] Sc·[0.25 1.01 0.00]
+10:10:06.172151 table@compaction committed F-3 S-9MiB Ke·0 D·99786 T·4.571127333s
+10:10:06.172447 table@remove removed @497
+10:10:06.172696 table@remove removed @495
+10:10:06.172857 table@remove removed @493
+10:10:06.173093 table@remove removed @491
+10:10:06.173735 table@remove removed @441
+10:10:06.173904 table@remove removed @442
+10:10:06.174058 table@remove removed @443
+10:10:06.174202 table@remove removed @444
+10:10:06.174346 table@remove removed @445
+10:10:06.174479 table@remove removed @446
+10:10:06.174603 table@remove removed @447
+10:10:06.174733 table@remove removed @448
+10:10:06.174873 table@remove removed @449
+10:10:06.175006 table@remove removed @450
+10:10:06.175141 table@remove removed @451
+10:10:06.175273 table@remove removed @452
+10:10:06.175404 table@remove removed @453
+10:10:06.175537 table@remove removed @454
+10:10:06.175663 table@remove removed @455
+10:10:06.175793 table@remove removed @456
+10:10:06.175939 table@remove removed @457
+10:10:06.176092 table@remove removed @458
+10:10:06.176242 table@remove removed @459
+10:10:06.176381 table@remove removed @460
+10:10:06.176521 table@remove removed @461
+10:10:06.176659 table@remove removed @462
+10:10:06.176792 table@remove removed @463
+10:10:06.176922 table@remove removed @464
+10:10:06.177045 table@remove removed @465
+10:10:06.177175 table@remove removed @466
+10:10:06.177299 table@remove removed @467
+10:10:06.177429 table@remove removed @468
+10:10:06.177559 table@remove removed @469
+10:10:06.177691 table@remove removed @470
+10:10:06.177826 table@remove removed @471
+10:10:06.177954 table@remove removed @472
+10:10:06.178084 table@remove removed @473
+10:10:06.178218 table@remove removed @474
+10:10:06.178358 table@remove removed @475
+10:10:06.178498 table@remove removed @476
+10:10:06.178639 table@remove removed @477
+10:10:06.178779 table@remove removed @478
+10:10:06.178918 table@remove removed @479
+10:10:06.179069 table@remove removed @480
+10:10:06.179335 table@remove removed @481
+10:10:06.179474 table@remove removed @482
+10:10:06.179607 table@remove removed @483
+10:10:06.179734 table@remove removed @484
+10:10:06.179864 table@remove removed @485
+10:10:06.179998 table@remove removed @486
+10:10:06.180129 table@remove removed @487
+10:10:06.180256 table@remove removed @488
+10:10:06.180324 table@remove removed @489
+10:10:06.180347 table@compaction L1·1 -> L2·2 S·6MiB Q·1141670
+10:10:06.214958 table@build created L2@550 N·16094 S·2MiB "/F5..WKI,v629516":"/pr..QR2,v321132"
+10:10:06.249842 table@build created L2@551 N·17969 S·2MiB "/pr..INU,v698227":"/pr..75O,v197010"
+10:10:06.280517 table@build created L2@552 N·11483 S·1MiB "/pr..75O,v127815":"/pr..QR2,v304536"
+10:10:06.280583 version@stat F·[1 49 3] S·106MiB[2MiB 98MiB 5MiB] Sc·[0.25 0.99 0.01]
+10:10:06.318672 table@compaction committed F~ S-606KiB Ke·0 D·4901 T·138.30675ms
+10:10:06.318962 table@remove removed @498
+10:10:06.319451 table@remove removed @439
+10:10:06.319591 table@remove removed @440
+10:36:57.666995 memdb@flush N·29149 S·3MiB
+10:36:57.740822 memdb@flush created L0@554 N·29149 S·3MiB "/F5..WKI,v1147614":"/pr..B4G,v1146521"
+10:36:57.740908 version@stat F·[2 49 3] S·109MiB[5MiB 98MiB 5MiB] Sc·[0.50 0.99 0.01]
+10:36:57.760854 memdb@flush committed F·1 T·93.598875ms
+10:36:57.762697 journal@remove removed @502
+11:02:50.150829 memdb@flush N·28637 S·3MiB
+11:02:50.222342 memdb@flush created L0@556 N·28637 S·3MiB "/F5..IYA,v1183992":"/pr..UQU,v1168598"
+11:02:50.222968 version@stat F·[3 49 3] S·113MiB[9MiB 98MiB 5MiB] Sc·[0.75 0.99 0.01]
+11:02:50.242553 memdb@flush committed F·1 T·90.839708ms
+11:02:50.243900 journal@remove removed @553
+11:10:06.336429 memdb@flush N·30356 S·3MiB
+11:10:07.023801 memdb@flush created L0@558 N·30356 S·2MiB "/F5..D42,v1193682":"/pr..K6Q,d1195185"
+11:10:07.040999 version@stat F·[4 49 3] S·115MiB[11MiB 98MiB 5MiB] Sc·[1.00 0.99 0.01]
+11:10:07.098553 memdb@flush committed F·1 T·761.887043ms
+11:10:07.100049 journal@remove removed @555
+11:10:07.101489 table@compaction L0·4 -> L1·49 S·110MiB Q·1227942
+11:10:08.161690 table@build created L1@559 N·16664 S·2MiB "/F5..WKI,v1147614":"/pr..QR2,v307977"
+11:10:08.927846 table@build created L1@560 N·16196 S·2MiB "/pr..QR2,v311858":"/pr..75O,v182641"
+11:10:09.106349 table@build created L1@561 N·16752 S·2MiB "/pr..KVM,v1023600":"/pr..QOY,v823659"
+11:10:09.118545 memdb@flush N·30602 S·3MiB
+11:10:09.225848 table@build created L1@563 N·16195 S·2MiB "/pr..75O,v115873":"/pr..3JY,v708377"
+11:10:09.763973 memdb@flush created L0@564 N·30602 S·2MiB "/pr..75O,d1219737":"/pr..OXO,v1228928"
+11:10:09.764067 version@stat F·[5 49 3] S·118MiB[14MiB 98MiB 5MiB] Sc·[1.25 0.99 0.01]
+11:10:09.806835 memdb@flush committed F·1 T·580.446375ms
+11:10:09.807542 journal@remove removed @557
+11:10:09.945184 table@build created L1@565 N·16224 S·2MiB "/pr..75O,v216068":"/pr..75O,v201245"
+11:10:10.568344 table@build created L1@566 N·16201 S·2MiB "/pr..75O,v228651":"/pr..75O,v192449"
+11:10:11.127635 table@build created L1@567 N·16191 S·2MiB "/pr..TGW,v951162":"/pr..OXO,v1034856"
+11:10:11.536552 table@build created L1@568 N·16221 S·2MiB "/pr..VUQ,v715529":"/pr..MTA,v448159"
+11:10:11.856853 memdb@flush N·30682 S·3MiB
+11:10:11.881504 table@build created L1@569 N·16509 S·2MiB "/pr..QOY,v898141":"/pr..75O,v140825"
+11:10:12.581016 memdb@flush created L0@571 N·30682 S·2MiB "/pr..75O,d1250454":"/pr..UQU,v1265370"
+11:10:12.581471 version@stat F·[6 49 3] S·120MiB[16MiB 98MiB 5MiB] Sc·[1.50 0.99 0.01]
+11:10:12.653159 memdb@flush committed F·1 T·754.616709ms
+11:10:12.672347 journal@remove removed @562
+11:10:13.695943 table@build created L1@572 N·16550 S·2MiB "/pr..QOY,v945489":"/pr..UQU,v722647"
+11:10:14.472000 table@build created L1@573 N·16480 S·2MiB "/pr..75O,v229769":"/pr..KMW,v471390"
+11:10:14.676675 memdb@flush N·30624 S·3MiB
+11:10:15.320698 table@build created L1@574 N·16596 S·2MiB "/pr..HYK,v350752":"/pr..XKO,v331198"
+11:10:16.197355 memdb@flush created L0@576 N·30624 S·2MiB "/pr..V6C,v1299935":"/pr..7O4,v1288060"
+11:10:16.197733 version@stat F·[7 49 3] S·123MiB[19MiB 98MiB 5MiB] Sc·[1.75 0.99 0.01]
+11:10:16.255718 memdb@flush committed F·1 T·934.399791ms
+11:10:16.256256 journal@remove removed @570
+11:10:17.015531 table@build created L1@577 N·16473 S·2MiB "/pr..HY4,v685327":"/pr..OXO,v991946"
+11:10:17.245087 memdb@flush N·30814 S·3MiB
+11:10:17.634521 table@build created L1@578 N·16470 S·2MiB "/pr..QOY,v946489":"/pr..5QY,v800720"
+11:10:18.477811 memdb@flush created L0@580 N·30814 S·2MiB "/pr..7O4,v1329844":"/pr..OXO,v1335282"
+11:10:18.478349 version@stat F·[8 49 3] S·126MiB[22MiB 98MiB 5MiB] Sc·[2.00 0.99 0.01]
+11:10:18.561863 memdb@flush committed F·1 T·926.983292ms
+11:10:18.580431 journal@remove removed @575
+11:10:18.853412 table@build created L1@581 N·16500 S·2MiB "/pr..MTA,v388695":"/pr..HYK,v617060"
+11:10:19.298522 table@build created L1@582 N·16506 S·2MiB "/pr..MTA,v403093":"/pr..QOY,v885926"
+11:10:19.663585 table@build created L1@583 N·16515 S·2MiB "/pr..K6Q,v493877":"/pr..QOY,v942364"
+11:10:19.895736 memdb@flush N·30840 S·3MiB
+11:10:20.187329 table@build created L1@584 N·16516 S·2MiB "/pr..QOY,v837785":"/pr..75O,v231442"
+11:10:20.670328 memdb@flush created L0@586 N·30840 S·2MiB "/pr..76M,v1370273":"/pr..UQU,v1351785"
+11:10:20.670455 version@stat F·[9 49 3] S·129MiB[25MiB 98MiB 5MiB] Sc·[2.25 0.99 0.01]
+11:10:20.727104 memdb@flush committed F·1 T·539.641917ms
+11:10:20.746474 journal@remove removed @579
+11:10:21.209604 table@build created L1@587 N·16539 S·2MiB "/pr..5QY,v1154947":"/pr..MTA,v443338"
+11:10:21.658196 table@build created L1@588 N·16490 S·2MiB "/pr..5QY,v625519":"/pr..QOY,v945654"
+11:10:22.096485 table@build created L1@589 N·16538 S·2MiB "/pr..MTA,v452732":"/pr..K6Q,v499710"
+11:10:22.575683 table@build created L1@590 N·16529 S·2MiB "/pr..HYK,v640894":"/pr..KMW,v290694"
+11:10:22.682663 memdb@flush N·30744 S·3MiB
+11:10:23.152257 table@build created L1@591 N·16521 S·2MiB "/pr..MTA,v392931":"/pr..5QY,v1160636"
+11:10:23.607562 memdb@flush created L0@593 N·30744 S·2MiB "/pr..ZOA,v1403452":"/pr..UQU,v1380772"
+11:10:23.608090 version@stat F·[10 49 3] S·132MiB[27MiB 98MiB 5MiB] Sc·[2.50 0.99 0.01]
+11:10:23.698452 memdb@flush committed F·1 T·545.93975ms
+11:10:23.717960 journal@remove removed @585
+11:10:24.136507 table@build created L1@594 N·16506 S·2MiB "/pr..B4G,v521161":"/pr..5QY,v1015797"
+11:10:24.443395 table@build created L1@595 N·16478 S·2MiB "/pr..UQU,v590270":"/pr..6LE,v677528"
+11:10:24.683716 table@build created L1@596 N·16506 S·2MiB "/pr..MZS,v675682":"/pr..75O,v215782"
+11:10:25.117773 table@build created L1@597 N·16514 S·2MiB "/pr..75O,v145896":"/pr..75O,v155179"
+11:10:25.529366 table@build created L1@598 N·16502 S·2MiB "/pr..MTA,v394235":"/pr..MTA,v393923"
+11:10:25.654828 memdb@flush N·30584 S·3MiB
+11:10:25.982797 table@build created L1@599 N·16537 S·2MiB "/pr..QOY,v862430":"/pr..KMW,v462087"
+11:10:26.422761 memdb@flush created L0@601 N·30584 S·2MiB "/pr..6G2,v1421757":"/pr..OXO,v1424710"
+11:10:26.423050 version@stat F·[11 49 3] S·134MiB[30MiB 98MiB 5MiB] Sc·[2.75 0.99 0.01]
+11:10:26.480083 memdb@flush committed F·1 T·496.834124ms
+11:10:26.481051 journal@remove removed @592
+11:10:26.955206 table@build created L1@602 N·16600 S·2MiB "/pr..QOY,v868226":"/pr..B4G,v1188072"
+11:10:27.363702 table@build created L1@603 N·16496 S·2MiB "/pr..UQU,v969438":"/pr..UQU,v1170501"
+11:10:27.655817 table@build created L1@604 N·16517 S·2MiB "/pr..75O,v996461":"/pr..B4G,v1185653"
+11:10:28.091949 table@build created L1@605 N·16546 S·2MiB "/pr..QOY,v934461":"/pr..WKS,v460825"
+11:10:28.354232 memdb@flush N·30585 S·3MiB
+11:10:28.623474 table@build created L1@606 N·16517 S·2MiB "/pr..MTA,v446923":"/pr..K6Q,v367227"
+11:10:28.796163 memdb@flush created L0@608 N·30585 S·2MiB "/pr..EVG,v1453558":"/pr..UQU,v1455939"
+11:10:28.796328 version@stat F·[12 49 3] S·137MiB[33MiB 98MiB 5MiB] Sc·[3.00 0.99 0.01]
+11:10:28.854814 memdb@flush committed F·1 T·230.587459ms
+11:10:28.875770 journal@remove removed @600
+11:10:29.013722 table@build created L1@609 N·16537 S·2MiB "/pr..MTA,v405121":"/pr..OXO,v1030076"
+11:10:29.361034 table@build created L1@610 N·16524 S·2MiB "/pr..PE4,v991827":"/pr..K6Q,v505888"
+11:10:29.781056 table@build created L1@611 N·16545 S·2MiB "/pr..QOY,v861128":"/pr..QOY,v888957"
+11:10:30.086697 table@build created L1@612 N·16522 S·2MiB "/pr..4VU,v951873":"/pr..K6Q,v497731"
+11:10:30.688170 table@build created L1@613 N·16514 S·2MiB "/pr..5QY,v812009":"/pr..MTA,v447003"
+11:10:31.058055 table@build created L1@614 N·16482 S·2MiB "/pr..5QY,v806398":"/pr..XKO,v479197"
+11:10:31.124163 table@build created L1@615 N·16523 S·2MiB "/pr..B4G,v296787":"/pr..KMW,v688763"
+11:10:31.166945 table@build created L1@616 N·16199 S·2MiB "/pr..KMW,v464131":"/pr..B4G,v1192473"
+11:10:31.205890 table@build created L1@617 N·16131 S·2MiB "/pr..75O,v127335":"/pr..75O,v203434"
+11:10:31.246566 table@build created L1@618 N·16117 S·2MiB "/pr..75O,v236286":"/pr..5QY,v1161970"
+11:10:31.286663 table@build created L1@619 N·16136 S·2MiB "/pr..UQU,v1165196":"/pr..K6Q,v371237"
+11:10:31.327243 table@build created L1@620 N·16129 S·2MiB "/pr..K6Q,v368469":"/pr..UQU,v592791"
+11:10:31.500009 table@build created L1@621 N·16128 S·2MiB "/pr..B4G,v296325":"/pr..5QY,v805079"
+11:10:31.568814 table@build created L1@622 N·16131 S·2MiB "/pr..5QY,v698814":"/pr..75O,v265556"
+11:10:31.647552 table@build created L1@623 N·16133 S·2MiB "/pr..75O,v152992":"/pr..75O,v164220"
+11:10:31.694715 table@build created L1@624 N·16129 S·2MiB "/pr..K6Q,v360132":"/pr..OXO,v982704"
+11:10:31.736992 table@build created L1@625 N·8430 S·1MiB "/pr..5QY,v547971":"/pr..RLY,v530541"
+11:10:31.739932 version@stat F·[8 51 3] S·130MiB[21MiB 103MiB 5MiB] Sc·[2.00 1.03 0.01]
+11:10:31.769249 table@compaction committed F-2 S-7MiB Ke·0 D·81148 T·24.668000042s
+11:10:31.769766 table@remove removed @558
+11:10:31.860126 memdb@flush N·30331 S·3MiB
+11:10:31.863015 table@compaction L0·8 -> L1·51 S·125MiB Q·1495523
+11:10:31.999170 memdb@flush created L0@627 N·30331 S·2MiB "/pr..6G2,v1494931":"/pr..UQU,v1468075"
+11:10:31.999212 version@stat F·[9 51 3] S·133MiB[24MiB 103MiB 5MiB] Sc·[2.25 1.03 0.01]
+11:10:32.052558 memdb@flush committed F·1 T·162.361958ms
+11:10:32.052907 journal@remove removed @607
+11:10:32.407724 table@build created L1@628 N·16665 S·2MiB "/F5..WKI,v1147614":"/pr..HY4,v697739"
+11:10:32.969090 table@build created L1@629 N·16231 S·2MiB "/pr..5QY,v1156907":"/pr..QOY,v909107"
+11:10:33.625150 table@build created L1@630 N·16765 S·2MiB "/pr..K6Q,v357373":"/pr..QOY,v876091"
+11:10:34.540045 table@build created L1@631 N·16225 S·2MiB "/pr..K6Q,v646944":"/pr..B4G,v297866"
+11:10:34.560998 memdb@flush N·30069 S·3MiB
+11:10:35.388100 table@build created L1@632 N·16172 S·2MiB "/pr..QOY,v847650":"/pr..QOY,v907427"
+11:10:35.761700 memdb@flush created L0@634 N·30069 S·2MiB "/pr..BCY,v1515364":"/pr..75O,d1525345"
+11:10:35.761810 version@stat F·[10 51 3] S·136MiB[27MiB 103MiB 5MiB] Sc·[2.50 1.03 0.01]
+11:10:35.818025 memdb@flush committed F·1 T·429.184708ms
+11:10:35.819465 journal@remove removed @626
+11:10:36.062865 table@build created L1@635 N·16194 S·2MiB "/pr..5QY,v384647":"/pr..ASS,v676188"
+11:10:36.299620 table@build created L1@636 N·16400 S·2MiB "/pr..K6Q,v382777":"/pr..MTA,v397740"
+11:10:36.488700 table@remove removed @556
+11:10:36.489635 table@remove removed @554
+11:10:36.513445 table@remove removed @503
+11:10:36.539168 table@remove removed @499
+11:10:36.539379 table@remove removed @500
+11:10:36.539893 table@remove removed @501
+11:10:36.540155 table@remove removed @504
+11:10:36.541280 table@remove removed @505
+11:10:36.562367 table@remove removed @506
+11:10:36.563460 table@remove removed @507
+11:10:36.563723 table@remove removed @508
+11:10:36.584378 table@remove removed @509
+11:10:36.603790 table@remove removed @510
+11:10:36.605365 table@remove removed @511
+11:10:36.605960 table@remove removed @512
+11:10:36.606525 table@remove removed @513
+11:10:36.607074 table@remove removed @514
+11:10:36.609053 table@remove removed @515
+11:10:36.628864 table@remove removed @516
+11:10:36.629278 table@remove removed @517
+11:10:36.629626 table@remove removed @518
+11:10:36.631885 table@remove removed @519
+11:10:36.632427 table@remove removed @520
+11:10:36.632737 table@remove removed @521
+11:10:36.632998 table@remove removed @522
+11:10:36.633280 table@remove removed @523
+11:10:36.633550 table@remove removed @524
+11:10:36.633799 table@remove removed @525
+11:10:36.634182 table@remove removed @526
+11:10:36.634455 table@remove removed @527
+11:10:36.634726 table@remove removed @528
+11:10:36.634977 table@remove removed @529
+11:10:36.635241 table@remove removed @530
+11:10:36.635498 table@remove removed @531
+11:10:36.635810 table@remove removed @532
+11:10:36.636194 table@remove removed @533
+11:10:36.636652 table@remove removed @534
+11:10:36.636953 table@remove removed @535
+11:10:36.637234 table@remove removed @536
+11:10:36.637998 table@remove removed @537
+11:10:36.638270 table@remove removed @538
+11:10:36.659591 table@remove removed @539
+11:10:36.660694 table@build created L1@637 N·16572 S·2MiB "/pr..QOY,v867813":"/pr..HYK,v604993"
+11:10:36.672746 table@remove removed @540
+11:10:36.673598 table@remove removed @541
+11:10:36.674156 table@remove removed @542
+11:10:36.674651 table@remove removed @543
+11:10:36.675073 table@remove removed @544
+11:10:36.675461 table@remove removed @545
+11:10:36.695951 table@remove removed @546
+11:10:36.696250 table@remove removed @547
+11:10:36.696513 table@remove removed @548
+11:10:36.696688 table@remove removed @549
+11:10:36.762632 table@build created L1@638 N·16565 S·2MiB "/pr..QOY,v946352":"/pr..MTA,v397532"
+11:10:36.811214 table@build created L1@639 N·16638 S·2MiB "/pr..QOY,v867333":"/pr..UQU,v912651"
+11:10:36.854960 table@build created L1@640 N·16524 S·2MiB "/pr..MTA,v439780":"/pr..MTA,v416579"
+11:10:36.896835 table@build created L1@641 N·16564 S·2MiB "/pr..QOY,v892220":"/pr..RLY,v533942"
+11:10:36.942494 table@build created L1@642 N·16586 S·2MiB "/pr..MTA,v445238":"/pr..MTA,v451823"
+11:10:36.979457 table@build created L1@643 N·16576 S·2MiB "/pr..5QY,v674418":"/pr..5QY,v800569"
+11:10:37.019536 table@build created L1@644 N·16596 S·2MiB "/pr..5QY,v802569":"/pr..HYK,v643761"
+11:10:37.057779 table@build created L1@645 N·16601 S·2MiB "/pr..UQU,v918509":"/pr..5QY,v1010434"
+11:10:37.114372 table@build created L1@646 N·16622 S·2MiB "/pr..KMW,v328394":"/pr..OXO,v1029348"
+11:10:37.172210 table@build created L1@647 N·16585 S·2MiB "/pr..UQU,v583344":"/pr..MTA,v398466"
+11:10:37.231060 table@build created L1@648 N·16580 S·2MiB "/pr..QOY,v868587":"/pr..3JY,v602879"
+11:10:37.328467 table@build created L1@649 N·16528 S·2MiB "/pr..UQU,v572655":"/pr..K6Q,v367577"
+11:10:37.390247 table@build created L1@650 N·16547 S·2MiB "/pr..QOY,v939334":"/pr..QOY,v871219"
+11:10:37.434592 table@build created L1@651 N·16576 S·2MiB "/pr..QR2,v320765":"/pr..MTA,v398555"
+11:10:37.476430 table@build created L1@652 N·16591 S·2MiB "/pr..QOY,v868820":"/pr..K6Q,v502293"
+11:10:37.537432 table@build created L1@653 N·16566 S·2MiB "/pr..HYK,v606633":"/pr..K6Q,v505867"
+11:10:37.594336 table@build created L1@654 N·16658 S·2MiB "/pr..QOY,v847801":"/pr..MTA,v428615"
+11:10:37.655147 table@build created L1@655 N·16576 S·2MiB "/pr..QR2,v312751":"/pr..MTA,v439273"
+11:10:37.716212 table@build created L1@656 N·16605 S·2MiB "/pr..5QY,v1159884":"/pr..HYK,v603351"
+11:10:37.784937 table@build created L1@657 N·16575 S·2MiB "/pr..MTA,v438335":"/pr..UQU,v584367"
+11:10:37.839900 table@build created L1@658 N·16584 S·2MiB "/pr..KMW,v291867":"/pr..B4G,v1193078"
+11:10:37.879438 table@build created L1@659 N·16622 S·2MiB "/pr..UQU,v600960":"/pr..OXO,v985026"
+11:10:37.906711 table@build created L1@660 N·16601 S·2MiB "/pr..QOY,v826428":"/pr..75O,v544100"
+11:10:37.942369 table@build created L1@661 N·16557 S·2MiB "/pr..RLY,v651134":"/pr..QOY,v932975"
+11:10:37.977122 table@build created L1@662 N·16511 S·2MiB "/pr..KMW,v291055":"/pr..QOY,v852067"
+11:10:38.029986 table@build created L1@663 N·16328 S·2MiB "/pr..75O,v193586":"/pr..75O,v193817"
+11:10:38.125442 table@build created L1@664 N·16141 S·2MiB "/pr..HY4,v959679":"/pr..75O,v242780"
+11:10:38.166533 table@build created L1@665 N·16128 S·2MiB "/pr..75O,v115174":"/pr..75O,v120900"
+11:10:38.204391 table@build created L1@666 N·16134 S·2MiB "/pr..B4G,v287900":"/pr..HYK,v962465"
+11:10:38.242186 table@build created L1@667 N·16127 S·2MiB "/pr..5QY,v809681":"/pr..K6Q,v502280"
+11:10:38.278001 table@build created L1@668 N·16149 S·2MiB "/pr..5QY,v1004129":"/pr..K6Q,v368688"
+11:10:38.312872 table@build created L1@669 N·16141 S·2MiB "/pr..KMW,v472617":"/pr..5QY,v1150444"
+11:10:38.360098 table@build created L1@670 N·16146 S·2MiB "/pr..K6Q,v367402":"/pr..UQU,v973020"
+11:10:38.394818 table@build created L1@671 N·16105 S·2MiB "/pr..HYK,v705559":"/pr..HY4,v683411"
+11:10:38.427419 table@build created L1@672 N·12873 S·1MiB "/pr..K6Q,v356675":"/pr..RLY,v530541"
+11:10:38.427518 version@stat F·[2 43 3] S·98MiB[5MiB 87MiB 5MiB] Sc·[0.50 0.87 0.01]
+11:10:38.446903 table@compaction committed F-16 S-37MiB Ke·0 D·370850 T·6.562461792s
+11:10:38.447556 table@remove removed @608
+11:10:38.447714 table@remove removed @601
+11:10:38.447842 table@remove removed @593
+11:10:38.448056 table@remove removed @586
+11:10:38.448245 table@remove removed @580
+11:10:38.448428 table@remove removed @576
+11:10:38.448593 table@remove removed @571
+11:10:38.448766 table@remove removed @564
+11:10:38.448914 table@remove removed @559
+11:10:38.449042 table@remove removed @560
+11:10:38.449158 table@remove removed @561
+11:10:38.449289 table@remove removed @563
+11:10:38.449430 table@remove removed @565
+11:10:38.449564 table@remove removed @566
+11:10:38.449714 table@remove removed @567
+11:10:38.449852 table@remove removed @568
+11:10:38.449998 table@remove removed @569
+11:10:38.450131 table@remove removed @572
+11:10:38.450253 table@remove removed @573
+11:10:38.450377 table@remove removed @574
+11:10:38.450510 table@remove removed @577
+11:10:38.450637 table@remove removed @578
+11:10:38.450803 table@remove removed @581
+11:10:38.450936 table@remove removed @582
+11:10:38.451066 table@remove removed @583
+11:10:38.451191 table@remove removed @584
+11:10:38.451312 table@remove removed @587
+11:10:38.451433 table@remove removed @588
+11:10:38.451548 table@remove removed @589
+11:10:38.451666 table@remove removed @590
+11:10:38.451790 table@remove removed @591
+11:10:38.451924 table@remove removed @594
+11:10:38.452037 table@remove removed @595
+11:10:38.452172 table@remove removed @596
+11:10:38.452292 table@remove removed @597
+11:10:38.452408 table@remove removed @598
+11:10:38.452531 table@remove removed @599
+11:10:38.452649 table@remove removed @602
+11:10:38.452766 table@remove removed @603
+11:10:38.452876 table@remove removed @604
+11:10:38.452989 table@remove removed @605
+11:10:38.453098 table@remove removed @606
+11:10:38.453203 table@remove removed @609
+11:10:38.453312 table@remove removed @610
+11:10:38.453433 table@remove removed @611
+11:10:38.453542 table@remove removed @612
+11:10:38.453658 table@remove removed @613
+11:10:38.453765 table@remove removed @614
+11:10:38.453877 table@remove removed @615
+11:10:38.453986 table@remove removed @616
+11:10:38.454108 table@remove removed @617
+11:10:38.454240 table@remove removed @618
+11:10:38.454344 table@remove removed @619
+11:10:38.454459 table@remove removed @620
+11:10:38.454583 table@remove removed @621
+11:10:38.454707 table@remove removed @622
+11:10:38.454821 table@remove removed @623
+11:10:38.454941 table@remove removed @624
+11:10:38.455023 table@remove removed @625
+11:10:39.709113 db@write was delayed N·692 T·1.778993409s
+11:47:14.110448 memdb@flush N·29497 S·3MiB
+11:47:14.194086 memdb@flush created L0@674 N·29497 S·2MiB "/F5..ALY,v1550858":"/pr..75O,d1543161"
+11:47:14.194746 version@stat F·[3 43 3] S·101MiB[8MiB 87MiB 5MiB] Sc·[0.75 0.87 0.01]
+11:47:14.213536 memdb@flush committed F·1 T·102.196958ms
+11:47:14.216776 journal@remove removed @633
+12:02:03.192745 memdb@flush N·28705 S·3MiB
+12:02:03.308430 memdb@flush created L0@676 N·28705 S·3MiB "/F5..ZVI,v1574900":"/pr..B4G,v1567874"
+12:02:03.308504 version@stat F·[4 43 3] S·105MiB[12MiB 87MiB 5MiB] Sc·[1.00 0.87 0.01]
+12:02:03.334743 memdb@flush committed F·1 T·139.026499ms
+12:02:03.335440 journal@remove removed @673
+12:02:03.337871 table@compaction L0·4 -> L1·43 S·99MiB Q·1583941
+12:02:03.375465 table@build created L1@677 N·16839 S·2MiB "/F5..WKI,v1147614":"/pr..MTA,v439302"
+12:02:03.419590 table@build created L1@678 N·16221 S·2MiB "/pr..5QY,v1558830":"/pr..QR2,v325122"
+12:02:03.473840 table@build created L1@679 N·16882 S·2MiB "/pr..OXO,v1020007":"/pr..QOY,v883390"
+12:02:03.503121 table@build created L1@680 N·16254 S·2MiB "/pr..MTA,v431877":"/pr..QOY,v903780"
+12:02:03.617933 table@build created L1@681 N·16190 S·2MiB "/pr..5QY,v807276":"/pr..75O,v960040"
+12:02:03.658603 table@build created L1@682 N·16169 S·2MiB "/pr..QOY,v848656":"/pr..K6Q,v361605"
+12:02:03.698597 table@build created L1@683 N·16223 S·2MiB "/pr..WMI,v1552046":"/pr..K6Q,v490560"
+12:02:03.736477 table@build created L1@684 N·16574 S·2MiB "/pr..MTA,v388791":"/pr..MTA,v407229"
+12:02:03.775276 table@build created L1@685 N·16559 S·2MiB "/pr..QOY,v880091":"/pr..QOY,v832094"
+12:02:03.810233 table@build created L1@686 N·16579 S·2MiB "/pr..UQU,v1169923":"/pr..HY4,v683840"
+12:02:03.846174 table@build created L1@687 N·16629 S·2MiB "/pr..K6Q,v357041":"/pr..UQU,v913408"
+12:02:03.880973 table@build created L1@688 N·16507 S·2MiB "/pr..5QY,v668800":"/pr..SHA,v921354"
+12:02:03.914618 table@build created L1@689 N·16563 S·2MiB "/pr..5QY,v1158526":"/pr..75O,v1142616"
+12:02:03.950793 table@build created L1@690 N·16545 S·2MiB "/pr..UQU,v722407":"/pr..HYK,v1026483"
+12:02:03.985426 table@build created L1@691 N·16566 S·2MiB "/pr..5QY,v808389":"/pr..QOY,v899423"
+12:02:04.019536 table@build created L1@692 N·16586 S·2MiB "/pr..HY4,v684339":"/pr..MTA,v401851"
+12:02:04.054424 table@build created L1@693 N·16579 S·2MiB "/pr..QOY,v872950":"/pr..QOY,v825664"
+12:02:04.089002 table@build created L1@694 N·16590 S·2MiB "/pr..QOY,v862873":"/pr..QR2,v314559"
+12:02:04.122958 table@build created L1@695 N·16565 S·2MiB "/pr..UQU,v970279":"/pr..QOY,v945148"
+12:02:04.157761 table@build created L1@696 N·16558 S·2MiB "/pr..5QY,v1011575":"/pr..QOY,v858552"
+12:02:04.186475 table@build created L1@697 N·16535 S·2MiB "/pr..5QY,v625156":"/pr..5QY,v1005510"
+12:02:04.228271 table@build created L1@698 N·16550 S·2MiB "/pr..UQU,v1165175":"/pr..QOY,v831837"
+12:02:04.279963 table@build created L1@699 N·16565 S·2MiB "/pr..K6Q,v370092":"/pr..QOY,v937924"
+12:02:04.314982 table@build created L1@700 N·16559 S·2MiB "/pr..UQU,v1167397":"/pr..MTA,v401733"
+12:02:04.348744 table@build created L1@701 N·16573 S·2MiB "/pr..QOY,v872717":"/pr..HYK,v337075"
+12:02:04.382940 table@build created L1@702 N·16663 S·2MiB "/pr..MTA,v416174":"/pr..UQU,v1178173"
+12:02:04.417411 table@build created L1@703 N·16580 S·2MiB "/pr..5QY,v791350":"/pr..QR2,v307479"
+12:02:04.467160 table@build created L1@704 N·16589 S·2MiB "/pr..QOY,v832138":"/pr..5QY,v1003641"
+12:02:04.519139 table@build created L1@705 N·16580 S·2MiB "/pr..B4G,v1189742":"/pr..MTA,v434809"
+12:02:04.558160 table@build created L1@706 N·16583 S·2MiB "/pr..5QY,v1572796":"/pr..QR2,v311859"
+12:02:04.607875 table@build created L1@707 N·16584 S·2MiB "/pr..B4G,v1567011":"/pr..QOY,v892172"
+12:02:04.644823 table@build created L1@708 N·16597 S·2MiB "/pr..QOY,v940233":"/pr..MTA,v440565"
+12:02:04.763981 table@build created L1@709 N·16550 S·2MiB "/pr..75O,v773977":"/pr..KMW,v466866"
+12:02:04.814142 table@build created L1@710 N·16546 S·2MiB "/pr..MTA,v393331":"/pr..QR2,v313439"
+12:02:04.863556 table@build created L1@711 N·16496 S·2MiB "/pr..UQU,v571451":"/pr..5QY,v794690"
+12:02:04.928115 table@build created L1@712 N·16124 S·2MiB "/pr..UQU,v597858":"/pr..HY4,v1146864"
+12:02:04.964949 table@build created L1@713 N·16157 S·2MiB "/pr..HY4,v928559":"/pr..HY4,v703729"
+12:02:04.998989 table@build created L1@714 N·16152 S·2MiB "/pr..5QY,v664684":"/pr..UQU,v565795"
+12:02:05.035590 table@build created L1@715 N·16149 S·2MiB "/pr..HY4,v932803":"/pr..B4G,v1563456"
+12:02:05.071422 table@build created L1@716 N·16146 S·2MiB "/pr..UQU,v599760":"/pr..B4G,v959300"
+12:02:05.110400 table@build created L1@717 N·16166 S·2MiB "/pr..5QY,v805859":"/pr..K6Q,v361651"
+12:02:05.147421 table@build created L1@718 N·16143 S·2MiB "/pr..KMW,v709644":"/pr..HYK,v1027348"
+12:02:05.200115 table@build created L1@719 N·13943 S·1MiB "/pr..HYK,v336717":"/pr..RLY,v530541"
+12:02:05.200708 version@stat F·[0 43 3] S·93MiB[0B 87MiB 5MiB] Sc·[0.00 0.88 0.01]
+12:02:05.220349 table@compaction committed F-4 S-12MiB Ke·0 D·116924 T·1.882469876s
+12:02:05.220514 table@remove removed @676
+12:02:05.220622 table@remove removed @674
+12:02:05.221215 table@remove removed @634
+12:02:05.221331 table@remove removed @627
+12:02:05.221427 table@remove removed @628
+12:02:05.221548 table@remove removed @629
+12:02:05.221662 table@remove removed @630
+12:02:05.221780 table@remove removed @631
+12:02:05.221896 table@remove removed @632
+12:02:05.221996 table@remove removed @635
+12:02:05.222099 table@remove removed @636
+12:02:05.222209 table@remove removed @637
+12:02:05.222311 table@remove removed @638
+12:02:05.222408 table@remove removed @639
+12:02:05.222508 table@remove removed @640
+12:02:05.222631 table@remove removed @641
+12:02:05.222748 table@remove removed @642
+12:02:05.222861 table@remove removed @643
+12:02:05.222987 table@remove removed @644
+12:02:05.223098 table@remove removed @645
+12:02:05.223229 table@remove removed @646
+12:02:05.223354 table@remove removed @647
+12:02:05.223479 table@remove removed @648
+12:02:05.223608 table@remove removed @649
+12:02:05.223728 table@remove removed @650
+12:02:05.223852 table@remove removed @651
+12:02:05.223961 table@remove removed @652
+12:02:05.224068 table@remove removed @653
+12:02:05.224183 table@remove removed @654
+12:02:05.224300 table@remove removed @655
+12:02:05.224413 table@remove removed @656
+12:02:05.224513 table@remove removed @657
+12:02:05.224633 table@remove removed @658
+12:02:05.224750 table@remove removed @659
+12:02:05.224860 table@remove removed @660
+12:02:05.224956 table@remove removed @661
+12:02:05.225060 table@remove removed @662
+12:02:05.225165 table@remove removed @663
+12:02:05.225260 table@remove removed @664
+12:02:05.225372 table@remove removed @665
+12:02:05.225620 table@remove removed @666
+12:02:05.225717 table@remove removed @667
+12:02:05.225824 table@remove removed @668
+12:02:05.225931 table@remove removed @669
+12:02:05.226057 table@remove removed @670
+12:02:05.226169 table@remove removed @671
+12:02:05.226267 table@remove removed @672
+12:25:14.597870 memdb@flush N·29715 S·3MiB
+12:25:14.673107 memdb@flush created L0@721 N·29715 S·2MiB "/F5..LHQ,v1584413":"/pr..HY4,v1605897"
+12:25:14.673200 version@stat F·[1 43 3] S·96MiB[2MiB 87MiB 5MiB] Sc·[0.25 0.88 0.01]
+12:25:14.731120 memdb@flush committed F·1 T·131.1015ms
+12:25:14.732173 journal@remove removed @675
+13:10:38.956147 memdb@flush N·29279 S·3MiB
+13:10:39.022098 memdb@flush created L0@723 N·29279 S·3MiB "/F5..LVN,v1631393":"/pr..HY4,v1625239"
+13:10:39.022633 version@stat F·[2 43 3] S·99MiB[6MiB 87MiB 5MiB] Sc·[0.50 0.88 0.01]
+13:10:39.108108 memdb@flush committed F·1 T·150.784833ms
+13:10:39.152104 journal@remove removed @720
+13:10:42.006162 memdb@flush N·30589 S·3MiB
+13:10:42.375372 memdb@flush created L0@725 N·30589 S·2MiB "/pr..EFS,v1651402":"/pr..OXO,v1643979"
+13:10:42.375815 version@stat F·[3 43 3] S·101MiB[8MiB 87MiB 5MiB] Sc·[0.75 0.88 0.01]
+13:10:42.508440 memdb@flush committed F·1 T·502.245917ms
+13:10:42.526445 journal@remove removed @722
+13:54:19.069702 memdb@flush N·30424 S·3MiB
+13:54:19.154556 memdb@flush created L0@727 N·30424 S·2MiB "/F5..PPI,v1700423":"/pr..HYK,v1700345"
+13:54:19.154624 version@stat F·[4 43 3] S·104MiB[10MiB 87MiB 5MiB] Sc·[1.00 0.88 0.01]
+13:54:19.180055 memdb@flush committed F·1 T·103.559251ms
+13:54:19.180867 journal@remove removed @724
+13:54:19.181289 table@compaction L0·4 -> L1·43 S·98MiB Q·1703802
+13:54:19.235264 table@build created L1@728 N·17181 S·2MiB "/F5..WKI,v1147614":"/pr..75O,d1211807"
+13:54:19.296020 table@build created L1@729 N·16277 S·2MiB "/pr..75O,d1211835":"/pr..5QY,v623463"
+13:54:19.336495 table@build created L1@730 N·17009 S·2MiB "/pr..QOY,v899341":"/pr..HYK,v643491"
+13:54:19.382006 table@build created L1@731 N·16254 S·2MiB "/pr..5QY,v794354":"/pr..6G2,v959653"
+13:54:19.421172 table@build created L1@732 N·16209 S·2MiB "/pr..QOY,v942141":"/pr..QOY,v882934"
+13:54:19.469743 table@build created L1@733 N·16192 S·2MiB "/pr..PE4,v525035":"/pr..HY4,v931541"
+13:54:19.503596 table@build created L1@734 N·16251 S·2MiB "/pr..K6Q,v504763":"/pr..QOY,v938180"
+13:54:19.540281 table@build created L1@735 N·16607 S·2MiB "/pr..UQU,v565243":"/pr..5QY,v810528"
+13:54:19.578286 table@build created L1@736 N·16582 S·2MiB "/pr..MTA,v409625":"/pr..5QY,v1159211"
+13:54:19.613223 table@build created L1@737 N·16660 S·2MiB "/pr..OXO,v1035035":"/pr..75O,v612611"
+13:54:19.647069 table@build created L1@738 N·16624 S·2MiB "/pr..75O,v723709":"/pr..UQU,v974737"
+13:54:19.682794 table@build created L1@739 N·16520 S·2MiB "/pr..HY4,v1623088":"/pr..UQU,v912567"
+13:54:19.717672 table@build created L1@740 N·16594 S·2MiB "/pr..K6Q,v555785":"/pr..QOY,v866214"
+13:54:19.748704 table@build created L1@741 N·16564 S·2MiB "/pr..HY4,v684577":"/pr..K6Q,v499989"
+13:54:19.784298 table@build created L1@742 N·16616 S·2MiB "/pr..UQU,v564379":"/pr..WKS,v1621196"
+13:54:19.810848 table@build created L1@743 N·16644 S·2MiB "/pr..QOY,v826010":"/pr..HYK,v343192"
+13:54:19.852378 table@build created L1@744 N·16618 S·2MiB "/pr..75O,v718721":"/pr..K6Q,v363663"
+13:54:19.889652 table@build created L1@745 N·16598 S·2MiB "/pr..5QY,v791495":"/pr..HYK,v385518"
+13:54:19.924360 table@build created L1@746 N·16593 S·2MiB "/pr..MTA,v454622":"/pr..OXO,v989662"
+13:54:19.960360 table@build created L1@747 N·16572 S·2MiB "/pr..5QY,v666747":"/pr..WKS,v472991"
+13:54:19.988721 table@build created L1@748 N·16574 S·2MiB "/pr..OXO,v1035306":"/pr..MTA,v439107"
+13:54:20.059421 table@build created L1@749 N·16597 S·2MiB "/pr..HYK,v635204":"/pr..MTA,v453882"
+13:54:20.095361 table@build created L1@750 N·16566 S·2MiB "/pr..75O,v815867":"/pr..GA2,v678783"
+13:54:20.131164 table@build created L1@751 N·16602 S·2MiB "/pr..KBI,v710303":"/pr..QOY,v874536"
+13:54:20.166281 table@build created L1@752 N·16706 S·2MiB "/pr..5QY,v791354":"/pr..QOY,v902408"
+13:54:20.200953 table@build created L1@753 N·16577 S·2MiB "/pr..QOY,v837270":"/pr..ITC,v704159"
+13:54:20.232917 table@build created L1@754 N·16602 S·2MiB "/pr..MTA,v411803":"/pr..OXO,v1019624"
+13:54:20.285569 table@build created L1@755 N·16617 S·2MiB "/pr..3JY,v687555":"/pr..MTA,v435434"
+13:54:20.321624 table@build created L1@756 N·16594 S·2MiB "/pr..QOY,v834726":"/pr..MTA,v458418"
+13:54:20.362675 table@build created L1@757 N·16612 S·2MiB "/pr..LPA,v681993":"/pr..5QY,v1016185"
+13:54:20.399268 table@build created L1@758 N·16632 S·2MiB "/pr..HYK,v472943":"/pr..QOY,v901824"
+13:54:20.433999 table@build created L1@759 N·16617 S·2MiB "/pr..OXO,v986375":"/pr..UQU,v580369"
+13:54:20.465936 table@build created L1@760 N·16563 S·2MiB "/pr..WMI,v1544701":"/pr..QOY,v888182"
+13:54:20.501498 table@build created L1@761 N·16476 S·2MiB "/pr..HY4,v1625839":"/pr..B5Q,v485491"
+13:54:20.535587 table@build created L1@762 N·16128 S·2MiB "/pr..PE4,v523777":"/pr..B4G,v1188058"
+13:54:20.568495 table@build created L1@763 N·16154 S·2MiB "/pr..75O,v1017233":"/pr..HYK,v338975"
+13:54:20.601267 table@build created L1@764 N·16143 S·2MiB "/pr..75O,v602833":"/pr..5QY,v1150669"
+13:54:20.630870 table@build created L1@765 N·16125 S·2MiB "/pr..UQU,v585537":"/pr..HY4,v1025034"
+13:54:20.664498 table@build created L1@766 N·16123 S·2MiB "/pr..WKS,v543605":"/pr..5QY,v548393"
+13:54:20.698357 table@build created L1@767 N·16134 S·2MiB "/pr..HYK,v1026585":"/pr..UQU,v562135"
+13:54:20.732231 table@build created L1@768 N·16151 S·2MiB "/pr..HYK,v605980":"/pr..5QY,v791067"
+13:54:20.766057 table@build created L1@769 N·16127 S·2MiB "/pr..OXO,v1001189":"/pr..UQU,v1168126"
+13:54:20.789416 table@build created L1@770 N·2395 S·309KiB "/pr..K6Q,v489094":"/pr..RLY,v530541"
+13:54:20.789685 version@stat F·[0 43 3] S·91MiB[0B 86MiB 5MiB] Sc·[0.00 0.86 0.01]
+13:54:20.809616 table@compaction committed F-4 S-12MiB Ke·0 D·130735 T·1.627859292s
+13:54:20.809806 table@remove removed @727
+13:54:20.810253 table@remove removed @725
+13:54:20.810417 table@remove removed @723
+13:54:20.810848 table@remove removed @721
+13:54:20.811024 table@remove removed @677
+13:54:20.811152 table@remove removed @678
+13:54:20.811282 table@remove removed @679
+13:54:20.811397 table@remove removed @680
+13:54:20.811522 table@remove removed @681
+13:54:20.811653 table@remove removed @682
+13:54:20.811772 table@remove removed @683
+13:54:20.812097 table@remove removed @684
+13:54:20.812267 table@remove removed @685
+13:54:20.812408 table@remove removed @686
+13:54:20.812546 table@remove removed @687
+13:54:20.812677 table@remove removed @688
+13:54:20.812812 table@remove removed @689
+13:54:20.812955 table@remove removed @690
+13:54:20.813081 table@remove removed @691
+13:54:20.813198 table@remove removed @692
+13:54:20.813317 table@remove removed @693
+13:54:20.813454 table@remove removed @694
+13:54:20.813590 table@remove removed @695
+13:54:20.813763 table@remove removed @696
+13:54:20.813900 table@remove removed @697
+13:54:20.814060 table@remove removed @698
+13:54:20.814202 table@remove removed @699
+13:54:20.814349 table@remove removed @700
+13:54:20.814488 table@remove removed @701
+13:54:20.814633 table@remove removed @702
+13:54:20.814791 table@remove removed @703
+13:54:20.814965 table@remove removed @704
+13:54:20.815128 table@remove removed @705
+13:54:20.815274 table@remove removed @706
+13:54:20.815432 table@remove removed @707
+13:54:20.815573 table@remove removed @708
+13:54:20.815730 table@remove removed @709
+13:54:20.815875 table@remove removed @710
+13:54:20.816018 table@remove removed @711
+13:54:20.816145 table@remove removed @712
+13:54:20.816265 table@remove removed @713
+13:54:20.816399 table@remove removed @714
+13:54:20.816525 table@remove removed @715
+13:54:20.816664 table@remove removed @716
+13:54:20.816922 table@remove removed @717
+13:54:20.817036 table@remove removed @718
+13:54:20.817133 table@remove removed @719
+14:10:46.505525 memdb@flush N·30440 S·3MiB
+14:10:46.704512 memdb@flush created L0@772 N·30440 S·2MiB "/F5..53Q,v1709032":"/pr..HY4,v1706188"
+14:10:46.705292 version@stat F·[1 43 3] S·94MiB[2MiB 86MiB 5MiB] Sc·[0.25 0.86 0.01]
+14:10:46.761182 memdb@flush committed F·1 T·255.170333ms
+14:10:46.761770 journal@remove removed @726
+14:10:49.171566 memdb@flush N·30696 S·3MiB
+14:10:49.523498 memdb@flush created L0@774 N·30696 S·2MiB "/pr..JIQ,v1757609":"/pr..HY4,v1763786"
+14:10:49.523819 version@stat F·[2 43 3] S·96MiB[4MiB 86MiB 5MiB] Sc·[0.50 0.86 0.01]
+14:10:49.579717 memdb@flush committed F·1 T·408.106416ms
+14:10:49.580338 journal@remove removed @771
+14:10:51.563727 memdb@flush N·30520 S·3MiB
+14:10:52.133173 memdb@flush created L0@776 N·30520 S·2MiB "/pr..HY4,v1779549":"/pr..HY4,v1767679"
+14:10:52.134269 version@stat F·[3 43 3] S·98MiB[7MiB 86MiB 5MiB] Sc·[0.75 0.86 0.01]
+14:10:52.191553 memdb@flush committed F·1 T·627.790792ms
+14:10:52.192054 journal@remove removed @773
+14:21:52.760654 memdb@flush N·29391 S·3MiB
+14:21:52.838623 memdb@flush created L0@778 N·29391 S·3MiB "/F5..QFY,v1807803":"/pr..K6Q,d1807754"
+14:21:52.839246 version@stat F·[4 43 3] S·101MiB[10MiB 86MiB 5MiB] Sc·[1.00 0.86 0.01]
+14:21:52.861547 memdb@flush committed F·1 T·100.09675ms
+14:21:52.862495 journal@remove removed @775
+14:21:52.863300 table@compaction L0·4 -> L1·43 S·96MiB Q·1825105
+14:21:52.905924 table@build created L1@779 N·17291 S·2MiB "/F5..WKI,v1147614":"/pr..QR2,d1633448"
+14:21:52.979696 table@build created L1@780 N·16379 S·2MiB "/pr..B4G,v1571088":"/pr..QJG,v816451"
+14:21:53.040831 table@build created L1@781 N·17010 S·2MiB "/pr..QOY,v850135":"/pr..7O4,v1552499"
+14:21:53.087835 table@build created L1@782 N·16204 S·2MiB "/pr..HYK,v965192":"/pr..UQU,v1174687"
+14:21:53.207196 table@build created L1@783 N·16242 S·2MiB "/pr..5QY,v809734":"/pr..HYK,v649293"
+14:21:53.303021 table@build created L1@784 N·16177 S·2MiB "/pr..5QY,v799555":"/pr..MTA,v455493"
+14:21:53.343170 table@build created L1@785 N·16231 S·2MiB "/pr..5QY,v791222":"/pr..UQU,v575527"
+14:21:53.383084 table@build created L1@786 N·16628 S·2MiB "/pr..K6Q,v499002":"/pr..HYK,v515045"
+14:21:53.438995 table@build created L1@787 N·16606 S·2MiB "/pr..B4G,v1568305":"/pr..QOY,v829414"
+14:21:53.500034 table@build created L1@788 N·16689 S·2MiB "/pr..QOY,v909532":"/pr..QOY,v821116"
+14:21:53.539113 table@build created L1@789 N·16558 S·2MiB "/pr..75O,v611721":"/pr..KXU,v1811394"
+14:21:53.576597 table@build created L1@790 N·16581 S·2MiB "/pr..UQU,v973160":"/pr..QOY,v871598"
+14:21:53.644830 table@build created L1@791 N·16613 S·2MiB "/pr..K6Q,v505048":"/pr..MTA,v411388"
+14:21:53.700135 table@build created L1@792 N·16564 S·2MiB "/pr..QOY,v885365":"/pr..MTA,v425182"
+14:21:53.755812 table@build created L1@793 N·16627 S·2MiB "/pr..K6Q,v498253":"/pr..UQU,v579293"
+14:21:53.816513 table@build created L1@794 N·16605 S·2MiB "/pr..HYK,v1547508":"/pr..HYK,v607854"
+14:21:53.853915 table@build created L1@795 N·16624 S·2MiB "/pr..HYK,v607949":"/pr..QOY,v910838"
+14:21:53.894872 table@build created L1@796 N·16596 S·2MiB "/pr..KXU,v1814976":"/pr..QOY,v856932"
+14:21:53.939344 table@build created L1@797 N·16594 S·2MiB "/pr..QOY,v909274":"/pr..5QY,v793004"
+14:21:53.986651 table@build created L1@798 N·16546 S·2MiB "/pr..KMW,v467375":"/pr..UQU,v1165822"
+14:21:54.023267 table@build created L1@799 N·16579 S·2MiB "/pr..UQU,v721168":"/pr..MTA,v399563"
+14:21:54.061653 table@build created L1@800 N·16598 S·2MiB "/pr..QOY,v869797":"/pr..5QY,v802686"
+14:21:54.110788 table@build created L1@801 N·16591 S·2MiB "/pr..5QY,v1154063":"/pr..5QY,v814626"
+14:21:54.190813 table@build created L1@802 N·16727 S·2MiB "/pr..MTA,v413977":"/pr..AD2,v817617"
+14:21:54.246532 table@build created L1@803 N·16589 S·2MiB "/pr..OXO,v988918":"/pr..5QY,v1559484"
+14:21:54.289048 table@build created L1@804 N·16608 S·2MiB "/pr..MTA,v436932":"/pr..5QY,v1556799"
+14:21:54.333127 table@build created L1@805 N·16596 S·2MiB "/pr..5QY,v668513":"/pr..K6Q,v555640"
+14:21:54.415417 table@build created L1@806 N·16629 S·2MiB "/pr..MTA,v390767":"/pr..QOY,v827458"
+14:21:54.495259 table@build created L1@807 N·16597 S·2MiB "/pr..3JY,v1543442":"/pr..UQU,v619789"
+14:21:54.531068 table@build created L1@808 N·16641 S·2MiB "/pr..5QY,v674091":"/pr..B4G,v1187545"
+14:21:54.590968 table@build created L1@809 N·16620 S·2MiB "/pr..5QY,v666368":"/pr..UQU,v1180108"
+14:21:54.626976 table@build created L1@810 N·16566 S·2MiB "/pr..MTA,v426616":"/pr..UQU,v582537"
+14:21:54.663827 table@build created L1@811 N·16541 S·2MiB "/pr..GA2,v678796":"/pr..B5Q,v487493"
+14:21:54.700378 table@build created L1@812 N·16086 S·2MiB "/pr..K6Q,v502854":"/pr..UQU,v577712"
+14:21:54.738475 table@build created L1@813 N·16085 S·2MiB "/pr..5QY,v1609132":"/pr..HY4,v983094"
+14:21:54.796351 table@build created L1@814 N·16069 S·2MiB "/pr..5QY,v666359":"/pr..KMW,v776610"
+14:21:54.835291 table@build created L1@815 N·16052 S·2MiB "/pr..UQU,v974301":"/pr..HY4,v925192"
+14:21:54.869042 table@build created L1@816 N·16067 S·2MiB "/pr..5QY,v706005":"/pr..B4G,v1569334"
+14:21:54.902968 table@build created L1@817 N·16066 S·2MiB "/pr..UQU,v565681":"/pr..HY4,v1624783"
+14:21:54.961366 table@build created L1@818 N·16092 S·2MiB "/pr..5QY,v1559063":"/pr..KMW,v709382"
+14:21:55.023807 table@build created L1@819 N·12476 S·1MiB "/pr..K6Q,v779804":"/pr..RLY,v530541"
+14:21:55.024341 version@stat F·[0 41 3] S·88MiB[0B 83MiB 5MiB] Sc·[0.00 0.83 0.01]
+14:21:55.043997 table@compaction committed F-6 S-13MiB Ke·0 D·143787 T·2.180703584s
+14:21:55.044187 table@remove removed @778
+14:21:55.044316 table@remove removed @776
+14:21:55.044453 table@remove removed @774
+14:21:55.044789 table@remove removed @772
+14:21:55.044871 table@remove removed @728
+14:21:55.044951 table@remove removed @729
+14:21:55.045048 table@remove removed @730
+14:21:55.045122 table@remove removed @731
+14:21:55.045198 table@remove removed @732
+14:21:55.045303 table@remove removed @733
+14:21:55.045419 table@remove removed @734
+14:21:55.045535 table@remove removed @735
+14:21:55.045643 table@remove removed @736
+14:21:55.045753 table@remove removed @737
+14:21:55.045867 table@remove removed @738
+14:21:55.045970 table@remove removed @739
+14:21:55.046076 table@remove removed @740
+14:21:55.046182 table@remove removed @741
+14:21:55.046285 table@remove removed @742
+14:21:55.046394 table@remove removed @743
+14:21:55.046491 table@remove removed @744
+14:21:55.046586 table@remove removed @745
+14:21:55.046681 table@remove removed @746
+14:21:55.046774 table@remove removed @747
+14:21:55.046862 table@remove removed @748
+14:21:55.046957 table@remove removed @749
+14:21:55.047062 table@remove removed @750
+14:21:55.047155 table@remove removed @751
+14:21:55.047255 table@remove removed @752
+14:21:55.047359 table@remove removed @753
+14:21:55.047465 table@remove removed @754
+14:21:55.047548 table@remove removed @755
+14:21:55.047636 table@remove removed @756
+14:21:55.047747 table@remove removed @757
+14:21:55.047854 table@remove removed @758
+14:21:55.047946 table@remove removed @759
+14:21:55.048044 table@remove removed @760
+14:21:55.048133 table@remove removed @761
+14:21:55.048228 table@remove removed @762
+14:21:55.048325 table@remove removed @763
+14:21:55.048412 table@remove removed @764
+14:21:55.048507 table@remove removed @765
+14:21:55.048601 table@remove removed @766
+14:21:55.048922 table@remove removed @767
+14:21:55.049037 table@remove removed @768
+14:21:55.049110 table@remove removed @769
+14:21:55.049173 table@remove removed @770
+15:10:53.374958 memdb@flush N·28892 S·3MiB
+15:10:53.428200 memdb@flush created L0@821 N·28892 S·3MiB "/F5..OLA,v1850854":"/pr..B4G,v1840692"
+15:10:53.431133 version@stat F·[1 41 3] S·92MiB[3MiB 83MiB 5MiB] Sc·[0.25 0.83 0.01]
+15:10:53.487736 memdb@flush committed F·1 T·112.413751ms
+15:10:53.506985 journal@remove removed @777
+15:28:19.036807 memdb@flush N·28903 S·3MiB
+15:28:19.095313 memdb@flush created L0@823 N·28903 S·3MiB "/pr..5QY,v1865629":"/pr..5QY,v1860566"
+15:28:19.095379 version@stat F·[2 41 3] S·95MiB[6MiB 83MiB 5MiB] Sc·[0.50 0.83 0.01]
+15:28:19.133781 memdb@flush committed F·1 T·96.77ms
+15:28:19.134584 journal@remove removed @820
