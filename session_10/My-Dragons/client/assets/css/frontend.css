@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Brawler&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manuale&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+@font-face {
+  font-family: "Poppins";
+  src: url("Poppins-Light.ttf");
+}
+
+body {
+  font-family: Poppins;
+  background: #287e7e;
+}
+
+nav {
+  background-color: #343434;
+}
+
+.txHashModalBody {
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+  font-family: "Hind Siliguri";
+}
+
+#headerContent {
+  color: white;
+  padding-left: 28%;
+  margin-top: 10px
+}
+
+#headerParagraph {
+  padding-left: 6%;
+}
+
+.modal-title {
+  font-weight: bold;
+}
+
+.modal-footer {
+  border-top: 0;
+}
+
+.createdDragonTitle {
+  margin-right: 582px;
+}
+
+.addedTokenText {
+  font-size: 18px;
+}
+
+.ownerDetail, .geneDetail {
+  margin-right: 27px;
+  font-size: 17px;
+}
+
+#createdDragon {
+  box-shadow: 0 6px 20px 0 rgb(0 0 0 / 5%);
+  background-color: #1fe798;
+  font-family: Arial;
+  border-radius: 10px;
+  margin-bottom: -102px;
+  margin-top: 6px;
+  margin-left: 18px;
+  padding-bottom: 0px;
+  line-height: 33px;
+  width: 97%;
+  display: none;
+}
+
+#colorTab {
+  color: black;
+  font-weight: bold;
+  border-radius: 10px 10px 0px 0px;
+  height: 61%;
+  width: 142px;
+  margin-top: 41px;
+}
+
+#attributeTab {
+  color: black;
+  font-weight: bold;
+  border-radius: 10px 10px 0px 0px;
+  height: 61%;
+  margin-top: 41px;
+}
+
+.nav-pills .nav-link:is(.active) {
+    background-color: #e0e0e0;
+}
+
+.nav-pills .nav-link:not(.active) {
+    background-color: #d0d0d0;
+}
+
+#createDragonBtn {
+  background-color: #32c554;
+  border-radius: 10px;
+  margin-top: -352px;
+  margin-left: -64px;
+  padding: 6px;
+  font-family: 'Manuale';
+  font-size: 116%;
+}
+
+#randomDragonBtn {
+  background-color: #f5c73e;
+  border-radius: 10px;
+  margin-top: -87px;
+  margin-left: 167px;
+  padding: 11px;
+  width: 46%;
+  height: 11%;
+  font-size: 128%;
+  font-weight: bold;
+}
+
+#defaultDragonBtn {
+  background-color: #1198f8;
+  border-color: #2fa5fa;
+  border-radius: 10px;
+  margin-top: 429px;
+  margin-left: -51px;
+  padding: 9px;
+  height: 7.5%;
+  font-family: 'Brawler';
+  font-size: 107%;
+}
+
+#dragonBox {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding-top: 306px;
+  padding-left: 65px;
+  padding-bottom: 12px;
+  margin-top: 56px;
+}
+
+#colorContent, #attributeContent {
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  height: 494px;
+  padding: 59px;
+  padding-top: 66px;
+}
+
+#dragonDna {
+  margin-top: -295px;
+  margin-left: -51px;
+}
+
+footer {
+  padding-left: 14px;
+  font-size: 115%;
+  color: black;
+  margin-top: 182px;
+}

@@ -1,0 +1,179 @@
+<!-- myDragons.html displays the dragons of the owner -->
+
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <title>My-Dragons</title>
+
+    <script type="text/javascript" src="assets/js/jquery-3.4.1.js"></script>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <script src="assets/bootstrap/js/popper.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/web3.min.js"></script>
+    <script src="assets/js/abiFiles/abiDragoncontract.js"></script>
+    <script src="assets/js/abiFiles/abiMarketplace.js"></script>
+
+    <link rel="stylesheet" href="assets/css/animations.css">
+    <link rel="stylesheet" href="assets/css/dragon.css">
+    <link rel="stylesheet" href="assets/css/frontend.css">
+    <link rel="stylesheet" href="assets/css/myDragons.css">
+
+  </head>
+
+  <body>
+
+    <div class="modal fade" id="OperatorAproval" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="OperatorAprovalTitle" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="OperatorAprovalTitle">Operator approval</h3>
+          </div>
+          <div class="modal-body">
+            <p>In order to sell your dragons,
+            you need to accept the marketplace as an operator so that it can manage/sell your offers.
+            Click on the confirm button if you accept or you can decline if you don't want to sell your dragons</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary declineBtn" data-dismiss="modal">Decline</button>
+            <button type="button" class="btn btn-success confirmBtn" data-dismiss="modal">Confirm</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="marketplaceOperator" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="marketplaceOperatorTitle" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="marketplaceOperatorTitle"></h3>
+          </div>
+          <div class="modal-body marketplaceOperatorBody"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="setOperatorModal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="setOperatorTitle" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="setOperatorTitle"></h3>
+          </div>
+          <div class="row modal-body setOperatorBody"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-info removeOperatorBtn" data-dismiss="modal">Remove operator approval</button>
+            <button type="button" class="btn btn-secondary closeBtn" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="sellOrRemoveModal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="sellOrRemoveTitle" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="sellOrRemoveTitle"></h3>
+          </div>
+          <div class="modal-body sellOrRemoveBody"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary sellOrRemoveClose" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="myOffersModal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="myOffersTitle" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="myOffersTitle"></h3>
+          </div>
+          <div class="row modal-body myOffersBody"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="toWithdrawModal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="toWithdrawTitle" aria-hidden="true">
+      <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="toWithdrawTitle"></h3>
+          </div>
+          <div class="row modal-body toWithdrawBody"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-success confirmWithdraw" data-dismiss="modal">Confirm</button>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Decline</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="withdrawModal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="withdrawTitle" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="withdrawTitle"></h3>
+          </div>
+          <div class="row modal-body withdrawBody"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
+      <a class="navbar-brand" href="index.html">My-Dragons</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="dragonCreation.html">Dragon Factory</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="dragonBreed.html">Breeding</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#">My Dragons<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="dragonMarketplace.html">Marketplace</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <button type="button" class="btn btn-warning myDragonBtn myOffersBtn">View or remove your offers</button>
+      <button type="button" class="btn btn-success myDragonBtn withdrawBtn">Withdraw funds</button><br>
+      <button type="button" class="btn btn-info myDragonBtn approvalBtn">Operator approval info</button>
+      <div class="row dragonObject"></div>
+    </div>
+
+    <footer>
+      <p>Ivan on Tech Academy Bootcamp</p>
+    </footer>
+
+  </body>
+<script src="assets/js/components.js"></script>
+<script src="assets/js/colors.js"></script>
+<script src="assets/js/dragonStorage/myDragons.js"></script>
+<script src="assets/js/dragonStorage/dragonComponents.js"></script>
+<script src="assets/js/dragonStorage/shownDragons.js"></script>
+<script src="assets/js/dragonStorage/myOffers/myOffers.js"></script>
+<script src="assets/js/dragonStorage/myOffers/showMyOffers.js"></script>
+
+</html>
